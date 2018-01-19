@@ -1,0 +1,18 @@
+application: mms-api-1043
+version: 3
+runtime: python27
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: .*
+  script: main.bottle
+
+builtins:
+- deferred: on
+
+libraries:
+- name: jinja2
+  version: latest
+- name: numpy
+  version: latest

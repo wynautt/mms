@@ -1,0 +1,24 @@
+# This requirements file lists all dependencies for this project.
+#
+# Run 'pip install -r requirements.txt -t lib/' to install these dependencies
+# in this project's lib/ directory.  The `lib` directory is added to `sys.path`
+# by `appengine_config.py`.
+
+#bottle==0.12.8
+#beautifulsoup4==4.4.0
+#oauthlib==1.0.3
+
+
+#2.1 works with gae for https requests
+#requests==2.1.0
+#requests==2.7.0
+
+#requests-oauthlib==0.5.0
+#python-dateutil==2.4.2
+
+#bokeh==0.9.2
+
+#Jinja2==2.8
+
+#ndb-utils==0.1a1
+

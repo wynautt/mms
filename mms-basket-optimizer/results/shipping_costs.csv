@@ -1,0 +1,1038 @@
+Shipping Method	Certified	Max. Value	Maximum Weigth	Stamp price	Price
+Priority Letter	No	25,00 €	50 g	1,23 €	1,53 €	BE	Belgium	Portugal	PT
+Priority Letter	No	25,00 €	100 g	3,69 €	4,19 €	BE	Belgium	Portugal	PT
+Priority Letter	No	25,00 €	350 g	7,38 €	7,88 €	BE	Belgium	Portugal	PT
+Priority Letter	No	25,00 €	1000 g	12,30 €	12,80 €	BE	Belgium	Portugal	PT
+Priority Letter	No	25,00 €	2000 g	24,60 €	25,10 €	BE	Belgium	Portugal	PT
+Registered Letter	Yes	200,00 €	50 g	6,52 €	7,02 €	BE	Belgium	Portugal	PT
+Registered Letter	Yes	200,00 €	100 g	8,98 €	9,48 €	BE	Belgium	Portugal	PT
+Registered Letter	Yes	200,00 €	350 g	12,67 €	13,17 €	BE	Belgium	Portugal	PT
+Registered Letter	Yes	200,00 €	1000 g	17,59 €	18,09 €	BE	Belgium	Portugal	PT
+Registered Letter	Yes	200,00 €	2000 g	29,89 €	30,39 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 500€)	Yes	500,00 €	50 g	16,52 €	17,02 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 500€)	Yes	500,00 €	100 g	18,98 €	19,48 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 500€)	Yes	500,00 €	350 g	22,67 €	23,17 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 500€)	Yes	500,00 €	1000 g	27,59 €	28,09 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 500€)	Yes	500,00 €	2000 g	39,89 €	40,39 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 1000€)	Yes	1000,00 €	50 g	26,52 €	27,02 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 1000€)	Yes	1000,00 €	100 g	28,98 €	29,48 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 1000€)	Yes	1000,00 €	350 g	32,67 €	33,17 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 1000€)	Yes	1000,00 €	1000 g	37,59 €	38,09 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 1000€)	Yes	1000,00 €	2000 g	49,89 €	50,39 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 2000€)	Yes	2000,00 €	50 g	46,52 €	47,02 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 2000€)	Yes	2000,00 €	100 g	48,98 €	49,48 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 2000€)	Yes	2000,00 €	350 g	52,67 €	53,17 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 2000€)	Yes	2000,00 €	1000 g	57,59 €	58,09 €	BE	Belgium	Portugal	PT
+Registered Letter (Declared Value: 2000€)	Yes	2000,00 €	2000 g	69,89 €	70,39 €	BE	Belgium	Portugal	PT
+Bpack World	Yes	500,00 €	5000 g	32,80 €	33,80 €	BE	Belgium	Portugal	PT
+Bpack World	Yes	500,00 €	10000 g	49,20 €	50,20 €	BE	Belgium	Portugal	PT
+Bpack World	Yes	500,00 €	20000 g	79,38 €	80,38 €	BE	Belgium	Portugal	PT
+Bpack World	Yes	500,00 €	30000 g	99,22 €	100,22 €	BE	Belgium	Portugal	PT
+Bpack World Light (Registered, Declared Value 1000€)	Yes	1000,00 €	350 g	33,83 €	34,83 €	BE	Belgium	Portugal	PT
+Bpack World Light (Registered, Declared Value 1000€)	Yes	1000,00 €	1000 g	38,18 €	39,18 €	BE	Belgium	Portugal	PT
+Bpack World Light (Registered, Declared Value 1000€)	Yes	1000,00 €	2000 g	51,23 €	52,23 €	BE	Belgium	Portugal	PT
+Bpack World Light (Registered, Declared Value 2000€)	Yes	2000,00 €	350 g	53,83 €	54,83 €	BE	Belgium	Portugal	PT
+Bpack World Light (Registered, Declared Value 2000€)	Yes	2000,00 €	1000 g	58,18 €	59,18 €	BE	Belgium	Portugal	PT
+Bpack World Light (Registered, Declared Value 2000€)	Yes	2000,00 €	2000 g	71,23 €	72,23 €	BE	Belgium	Portugal	PT
+UPS Standard Value 10.000€ (Flat Fee)	Yes	10000,00 €	10000 g	99,00 €	100,00 €	BE	Belgium	Portugal	PT
+Economy Letter (Priority B)	No	25,00 €	50 g	16,00 DKK	2,45 €	DK	Denmark	Portugal	PT
+Letter (Priority A)	No	25,00 €	100 g	25,00 DKK	3,85 €	DK	Denmark	Portugal	PT
+Letter (Priority A)	No	25,00 €	500 g	50,00 DKK	7,20 €	DK	Denmark	Portugal	PT
+Letter (Priority A)	No	25,00 €	500 g	50,00 DKK	7,20 €	DK	Denmark	Portugal	PT
+Letter (Priority A)	No	25,00 €	2000 g	100,00 DKK	13,91 €	DK	Denmark	Portugal	PT
+Recommended Letter (Priority A)	Yes	200,00 €	100 g	103,00 DKK	14,31 €	DK	Denmark	Portugal	PT
+Recommended Letter (Priority A)	Yes	200,00 €	500 g	128,00 DKK	17,66 €	DK	Denmark	Portugal	PT
+Recommended Letter (Priority A)	Yes	200,00 €	500 g	128,00 DKK	17,66 €	DK	Denmark	Portugal	PT
+Recommended Letter (Priority A)	Yes	200,00 €	2000 g	178,00 DKK	24,37 €	DK	Denmark	Portugal	PT
+Insured Parcel (10.000 DKK)	Yes	500,00 €	1000 g	405,00 DKK	55,31 €	DK	Denmark	Portugal	PT
+Insured Parcel (10.000 DKK)	Yes	500,00 €	5000 g	490,00 DKK	66,70 €	DK	Denmark	Portugal	PT
+Insured Parcel (10.000 DKK)	Yes	500,00 €	10000 g	660,00 DKK	89,50 €	DK	Denmark	Portugal	PT
+Insured Parcel (10.000 DKK)	Yes	500,00 €	20000 g	900,00 DKK	121,68 €	DK	Denmark	Portugal	PT
+UPS or Courrier Parcel (Full Insurance)	Yes	5000,00 €	5000 g	750,00 DKK	101,57 €	DK	Denmark	Portugal	PT
+Priority Letter	No	25,00 €	20 g	1,30 €	1,60 €	FI	Finland	Portugal	PT
+Priority Letter	No	25,00 €	50 g	1,90 €	2,20 €	FI	Finland	Portugal	PT
+Priority Letter	No	25,00 €	100 g	2,60 €	3,10 €	FI	Finland	Portugal	PT
+Priority Letter	No	25,00 €	250 g	4,10 €	4,60 €	FI	Finland	Portugal	PT
+Priority Maxi Letter	No	25,00 €	250 g	8,50 €	9,00 €	FI	Finland	Portugal	PT
+Priority Letter	No	25,00 €	500 g	6,80 €	7,30 €	FI	Finland	Portugal	PT
+Priority Maxi Letter	No	25,00 €	500 g	13,40 €	13,90 €	FI	Finland	Portugal	PT
+Priority Maxi Letter Playmat	No	25,00 €	500 g	13,40 €	13,90 €	FI	Finland	Portugal	PT
+Priority Letter	No	25,00 €	1000 g	13,00 €	13,50 €	FI	Finland	Portugal	PT
+Priority Maxi Letter	No	25,00 €	1000 g	19,00 €	19,50 €	FI	Finland	Portugal	PT
+Priority Maxi Letter	No	25,00 €	1500 g	27,80 €	28,30 €	FI	Finland	Portugal	PT
+Priority Letter	No	25,00 €	2000 g	23,00 €	23,50 €	FI	Finland	Portugal	PT
+Priority Maxi Letter	No	25,00 €	2000 g	38,00 €	38,50 €	FI	Finland	Portugal	PT
+Registered Letter	Yes	90,00 €	20 g	10,60 €	11,10 €	FI	Finland	Portugal	PT
+Registered Letter	Yes	90,00 €	50 g	11,20 €	11,70 €	FI	Finland	Portugal	PT
+Registered Letter	Yes	90,00 €	100 g	11,90 €	12,40 €	FI	Finland	Portugal	PT
+Registered Letter	Yes	90,00 €	250 g	13,40 €	13,90 €	FI	Finland	Portugal	PT
+Registered Maxi Letter	Yes	90,00 €	250 g	17,80 €	18,30 €	FI	Finland	Portugal	PT
+Registered Letter	Yes	90,00 €	500 g	16,10 €	16,60 €	FI	Finland	Portugal	PT
+Registered Maxi Letter	Yes	90,00 €	500 g	22,70 €	23,20 €	FI	Finland	Portugal	PT
+Registered Maxi Letter Playmat	Yes	90,00 €	500 g	22,70 €	23,20 €	FI	Finland	Portugal	PT
+Registered Letter	Yes	90,00 €	1000 g	22,30 €	22,80 €	FI	Finland	Portugal	PT
+Registered Maxi Letter	Yes	90,00 €	1000 g	28,30 €	28,80 €	FI	Finland	Portugal	PT
+Registered Maxi Letter	Yes	90,00 €	1500 g	37,10 €	37,60 €	FI	Finland	Portugal	PT
+Registered Letter	Yes	90,00 €	2000 g	32,30 €	32,80 €	FI	Finland	Portugal	PT
+Registered Maxi Letter	Yes	90,00 €	2000 g	47,30 €	47,80 €	FI	Finland	Portugal	PT
+Insured Letter	Yes	5000,00 €	20 g	25,30 €	25,80 €	FI	Finland	Portugal	PT
+Insured Letter	Yes	5000,00 €	50 g	25,90 €	26,40 €	FI	Finland	Portugal	PT
+Insured Letter	Yes	5000,00 €	100 g	26,60 €	27,10 €	FI	Finland	Portugal	PT
+Insured Letter	Yes	5000,00 €	250 g	28,10 €	28,60 €	FI	Finland	Portugal	PT
+Insured Maxi Letter	Yes	5000,00 €	250 g	32,50 €	33,00 €	FI	Finland	Portugal	PT
+Insured Letter	Yes	5000,00 €	500 g	30,80 €	31,30 €	FI	Finland	Portugal	PT
+Insured Maxi Letter	Yes	5000,00 €	500 g	37,40 €	37,90 €	FI	Finland	Portugal	PT
+Insured Letter	Yes	5000,00 €	1000 g	37,00 €	37,50 €	FI	Finland	Portugal	PT
+Insured Maxi Letter	Yes	5000,00 €	1000 g	43,00 €	43,50 €	FI	Finland	Portugal	PT
+Insured Maxi Letter	Yes	5000,00 €	1500 g	51,80 €	52,30 €	FI	Finland	Portugal	PT
+Insured Letter	Yes	5000,00 €	2000 g	47,00 €	47,50 €	FI	Finland	Portugal	PT
+Insured Maxi Letter	Yes	5000,00 €	2000 g	62,00 €	62,50 €	FI	Finland	Portugal	PT
+Parcel	Yes	100,00 €	2000 g	27,00 €	28,00 €	FI	Finland	Portugal	PT
+Parcel	Yes	100,00 €	5000 g	35,00 €	36,00 €	FI	Finland	Portugal	PT
+Parcel	Yes	100,00 €	10000 g	46,30 €	47,30 €	FI	Finland	Portugal	PT
+Parcel	Yes	100,00 €	15000 g	72,00 €	73,00 €	FI	Finland	Portugal	PT
+Parcel	Yes	150,00 €	30000 g	115,00 €	116,00 €	FI	Finland	Portugal	PT
+Insured Parcel (EMS)	Yes	1680,00 €	2000 g	62,00 €	63,00 €	FI	Finland	Portugal	PT
+Insured Parcel (EMS)	Yes	1680,00 €	5000 g	82,00 €	83,00 €	FI	Finland	Portugal	PT
+Insured Parcel (EMS)	Yes	1680,00 €	10000 g	108,00 €	109,00 €	FI	Finland	Portugal	PT
+Insured Parcel (EMS)	Yes	1680,00 €	15000 g	134,00 €	135,00 €	FI	Finland	Portugal	PT
+Insured Parcel (EMS)	Yes	1680,00 €	30000 g	206,00 €	207,00 €	FI	Finland	Portugal	PT
+Priority Letter (International Standard)	No	25,00 €	20 g	1,00 GBP	1,58 €	GB	Great Britain	Portugal	PT
+Priority Letter (International Standard)	No	25,00 €	60 g	1,52 GBP	2,44 €	GB	Great Britain	Portugal	PT
+Priority Small Parcel (International Standard)	No	25,00 €	100 g	3,45 GBP	4,90 €	GB	Great Britain	Portugal	PT
+Priority Small Parcel (International Standard)	No	25,00 €	250 g	3,95 GBP	5,54 €	GB	Great Britain	Portugal	PT
+Priority Small Parcel (International Standard) Playmat	No	25,00 €	500 g	5,50 GBP	7,52 €	GB	Great Britain	Portugal	PT
+Priority Small Parcel (International Standard)	No	25,00 €	500 g	5,50 GBP	7,52 €	GB	Great Britain	Portugal	PT
+Priority Small Parcel (International Standard)	No	25,00 €	750 g	6,85 GBP	9,24 €	GB	Great Britain	Portugal	PT
+Priority Small Parcel (International Standard)	No	25,00 €	1000 g	8,26 GBP	11,04 €	GB	Great Britain	Portugal	PT
+Registered Letter (Int'l Tracked & Signed)	Yes	60,00 €	20 g	6,00 GBP	8,16 €	GB	Great Britain	Portugal	PT
+Registered Letter (Int'l Tracked & Signed)	Yes	60,00 €	60 g	6,52 GBP	8,82 €	GB	Great Britain	Portugal	PT
+Registered Small Parcel (Int'l Tracked & Signed)	Yes	60,00 €	100 g	8,10 GBP	10,84 €	GB	Great Britain	Portugal	PT
+Registered Small Parcel (Int'l Tracked & Signed)	Yes	60,00 €	250 g	8,60 GBP	11,48 €	GB	Great Britain	Portugal	PT
+Registered Small Parcel (Int'l Tracked & Signed)	Yes	60,00 €	500 g	10,05 GBP	13,33 €	GB	Great Britain	Portugal	PT
+Registered Small Parcel (Int'l Tracked & Signed) Playmat	Yes	60,00 €	500 g	10,05 GBP	13,33 €	GB	Great Britain	Portugal	PT
+Registered Small Parcel (Int'l Tracked & Signed)	Yes	60,00 €	750 g	11,00 GBP	14,54 €	GB	Great Britain	Portugal	PT
+Registered Small Parcel (Int'l Tracked & Signed)	Yes	60,00 €	1000 g	12,51 GBP	16,47 €	GB	Great Britain	Portugal	PT
+Registered Letter (Int'l Tracked & Signed 250GBP)	Yes	300,00 €	20 g	8,50 GBP	11,35 €	GB	Great Britain	Portugal	PT
+Registered Letter (Int'l Tracked & Signed 250GBP)	Yes	300,00 €	60 g	9,02 GBP	12,01 €	GB	Great Britain	Portugal	PT
+Registered Small Parcel (Int'l Tracked & Signed 250GBP)	Yes	300,00 €	100 g	10,60 GBP	14,03 €	GB	Great Britain	Portugal	PT
+Registered Small Parcel (Int'l Tracked & Signed 250GBP)	Yes	300,00 €	250 g	11,10 GBP	14,67 €	GB	Great Britain	Portugal	PT
+Registered Small Parcel (Int'l Tracked & Signed 250GBP)	Yes	300,00 €	500 g	12,55 GBP	16,52 €	GB	Great Britain	Portugal	PT
+Registered Small Parcel (Int'l Tracked & Signed 250GBP)	Yes	300,00 €	750 g	13,50 GBP	17,73 €	GB	Great Britain	Portugal	PT
+Registered Small Parcel (Int'l Tracked & Signed 250GBP)	Yes	300,00 €	1000 g	15,01 GBP	19,66 €	GB	Great Britain	Portugal	PT
+Insured Parcel (Parcelforce globalpriority 200 GBP)	Yes	480,00 €	2000 g	44,28 GBP	57,51 €	GB	Great Britain	Portugal	PT
+Insured Parcel (Parcelforce globalpriority 200 GBP)	Yes	480,00 €	5000 g	57,96 GBP	74,97 €	GB	Great Britain	Portugal	PT
+Insured Parcel (Parcelforce globalpriority 200 GBP)	Yes	480,00 €	10000 g	77,16 GBP	99,47 €	GB	Great Britain	Portugal	PT
+Insured Parcel (Parcelforce globalpriority 200 GBP)	Yes	480,00 €	20000 g	106,56 GBP	136,99 €	GB	Great Britain	Portugal	PT
+Insured Parcel (Parcelforce globalpriority 1,000 GBP)	Yes	1200,00 €	2000 g	52,28 GBP	67,72 €	GB	Great Britain	Portugal	PT
+Insured Parcel (Parcelforce globalpriority 1,000 GBP)	Yes	1200,00 €	5000 g	65,96 GBP	85,18 €	GB	Great Britain	Portugal	PT
+Insured Parcel (Parcelforce globalpriority 1,000 GBP)	Yes	1200,00 €	10000 g	85,16 GBP	109,68 €	GB	Great Britain	Portugal	PT
+Insured Parcel (Parcelforce globalpriority 1,000 GBP)	Yes	1200,00 €	20000 g	114,56 GBP	147,20 €	GB	Great Britain	Portugal	PT
+Insured Parcel (Parcelforce globalpriority 2,500 GBP)	Yes	6000,00 €	2000 g	64,28 GBP	83,03 €	GB	Great Britain	Portugal	PT
+Insured Parcel (Parcelforce globalpriority 2,500 GBP)	Yes	6000,00 €	5000 g	77,96 GBP	100,49 €	GB	Great Britain	Portugal	PT
+Insured Parcel (Parcelforce globalpriority 2,500 GBP)	Yes	6000,00 €	10000 g	97,16 GBP	124,99 €	GB	Great Britain	Portugal	PT
+Insured Parcel (Parcelforce globalpriority 2,500 GBP)	Yes	6000,00 €	20000 g	126,56 GBP	162,52 €	GB	Great Britain	Portugal	PT
+UPS Standard Value 10.000€ (Flat Fee)	Yes	10000,00 €	5000 g	200,00 GBP	256,24 €	GB	Great Britain	Portugal	PT
+Standard Post Letter	No	25,00 €	50 g	1,05 €	1,35 €	IE	Ireland	Portugal	PT
+Standard Post Large Envelope	No	25,00 €	100 g	2,05 €	2,55 €	IE	Ireland	Portugal	PT
+Standard Post Packet	No	25,00 €	250 g	4,90 €	5,40 €	IE	Ireland	Portugal	PT
+Standard Post Packet	No	25,00 €	500 g	5,90 €	6,40 €	IE	Ireland	Portugal	PT
+Standard Post Packet Playmat	No	25,00 €	500 g	5,90 €	6,40 €	IE	Ireland	Portugal	PT
+Standard Post Packet	No	25,00 €	1000 g	8,40 €	8,90 €	IE	Ireland	Portugal	PT
+Standard Post Packet	No	25,00 €	2000 g	11,65 €	12,15 €	IE	Ireland	Portugal	PT
+Registered Post Letter	Yes	750,00 €	50 g	6,10 €	6,60 €	IE	Ireland	Portugal	PT
+Registered Post Large Envelope	Yes	750,00 €	100 g	7,05 €	7,55 €	IE	Ireland	Portugal	PT
+Registered Post Packet	Yes	750,00 €	250 g	9,90 €	10,40 €	IE	Ireland	Portugal	PT
+Registered Post Packet Playmat	Yes	750,00 €	250 g	9,90 €	10,40 €	IE	Ireland	Portugal	PT
+Registered Post Packet	Yes	750,00 €	500 g	10,90 €	11,40 €	IE	Ireland	Portugal	PT
+Registered Post Packet	Yes	750,00 €	1000 g	13,40 €	13,90 €	IE	Ireland	Portugal	PT
+Registered Post Packet	Yes	750,00 €	2000 g	16,65 €	17,15 €	IE	Ireland	Portugal	PT
+Registered Post Parcel	Yes	1000,00 €	2000 g	37,50 €	38,50 €	IE	Ireland	Portugal	PT
+Registered Post Parcel	Yes	1000,00 €	10000 g	70,50 €	71,50 €	IE	Ireland	Portugal	PT
+Registered Post Parcel	Yes	1000,00 €	20000 g	80,50 €	81,50 €	IE	Ireland	Portugal	PT
+Letter	No	25,00 €	20 g	1,25 €	1,55 €	NL	Netherlands	Portugal	PT
+Letter	No	25,00 €	50 g	2,50 €	2,80 €	NL	Netherlands	Portugal	PT
+Letter	No	25,00 €	100 g	3,75 €	4,25 €	NL	Netherlands	Portugal	PT
+Letter	No	25,00 €	250 g	6,25 €	6,75 €	NL	Netherlands	Portugal	PT
+Letter	No	25,00 €	2000 g	11,25 €	11,75 €	NL	Netherlands	Portugal	PT
+Registered Letter (50€)	Yes	100,00 €	2000 g	11,50 €	12,00 €	NL	Netherlands	Portugal	PT
+Insured Letter (500€)	Yes	500,00 €	2000 g	19,05 €	19,55 €	NL	Netherlands	Portugal	PT
+Registered Parcel (500€)	Yes	500,00 €	2000 g	20,15 €	21,15 €	NL	Netherlands	Portugal	PT
+Registered Parcel (500€)	Yes	500,00 €	5000 g	26,65 €	27,65 €	NL	Netherlands	Portugal	PT
+Registered Parcel (500€)	Yes	500,00 €	10000 g	32,65 €	33,65 €	NL	Netherlands	Portugal	PT
+Registered Parcel (500€)	Yes	500,00 €	20000 g	41,65 €	42,65 €	NL	Netherlands	Portugal	PT
+Insured Parcel (5.500€) + Sealbag	Yes	5500,00 €	2000 g	26,00 €	27,00 €	NL	Netherlands	Portugal	PT
+Insured Parcel (5.500€) + Sealbag	Yes	5500,00 €	5000 g	32,50 €	33,50 €	NL	Netherlands	Portugal	PT
+Insured Parcel (5.500€) + Sealbag	Yes	5500,00 €	10000 g	38,50 €	39,50 €	NL	Netherlands	Portugal	PT
+Insured Parcel (5.500€) + Sealbag	Yes	5500,00 €	20000 g	47,50 €	48,50 €	NL	Netherlands	Portugal	PT
+UPS Parcel (up to 10.000€ insurance)	Yes	10000,00 €	10000 g	99,00 €	100,00 €	NL	Netherlands	Portugal	PT
+Correio Azul	No	25,00 €	20 g	0,58 €	0,88 €	PT	Portugal	Portugal	PT
+Correio Azul	No	25,00 €	50 g	0,85 €	1,15 €	PT	Portugal	Portugal	PT
+Correio Azul	No	25,00 €	100 g	1,05 €	1,55 €	PT	Portugal	Portugal	PT
+Correio Azul	No	25,00 €	500 g	2,20 €	2,70 €	PT	Portugal	Portugal	PT
+Correio Azul	No	25,00 €	2000 g	4,60 €	5,10 €	PT	Portugal	Portugal	PT
+Correio Registado em Mao	Yes	100,00 €	50 g	2,10 €	2,60 €	PT	Portugal	Portugal	PT
+Correio Registado em Mao	Yes	100,00 €	100 g	2,30 €	2,80 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal	Yes	200,00 €	100 g	5,30 €	5,80 €	PT	Portugal	Portugal	PT
+Correio Registado em Mao	Yes	100,00 €	500 g	3,05 €	3,55 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal	Yes	200,00 €	500 g	6,05 €	6,55 €	PT	Portugal	Portugal	PT
+Correio Registado em Mao	Yes	100,00 €	2000 g	5,40 €	5,90 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal	Yes	200,00 €	2000 g	8,40 €	8,90 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal (Valor 500€)	Yes	500,00 €	100 g	8,10 €	8,60 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal (Valor 500€)	Yes	500,00 €	500 g	8,85 €	9,35 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal (Valor 500€)	Yes	500,00 €	2000 g	11,20 €	11,70 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal (Valor 1.000€)	Yes	1000,00 €	100 g	10,90 €	11,40 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal (Valor 1.000€)	Yes	1000,00 €	500 g	11,65 €	12,15 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal (Valor 1.000€)	Yes	1000,00 €	2000 g	14,00 €	14,50 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal (Valor 2.500€)	Yes	2500,00 €	100 g	19,40 €	19,90 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal (Valor 2.500€)	Yes	2500,00 €	500 g	20,15 €	20,65 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal (Valor 2.500€)	Yes	2500,00 €	2000 g	22,50 €	23,00 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal (Valor 5.000€)	Yes	5000,00 €	100 g	33,30 €	33,80 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal (Valor 5.000€)	Yes	5000,00 €	500 g	34,05 €	34,55 €	PT	Portugal	Portugal	PT
+Correio Registado Pessoal (Valor 5.000€)	Yes	5000,00 €	2000 g	36,40 €	36,90 €	PT	Portugal	Portugal	PT
+Encomenda Nacional 	Yes	500,00 €	2000 g	5,70 €	6,70 €	PT	Portugal	Portugal	PT
+Encomenda Nacional 	Yes	500,00 €	5000 g	7,10 €	8,10 €	PT	Portugal	Portugal	PT
+Encomenda Nacional 	Yes	500,00 €	10000 g	10,30 €	11,30 €	PT	Portugal	Portugal	PT
+Priority Letter	No	25,00 €	50 g	14,00 SEK	1,81 €	SE	Sweden	Portugal	PT
+Priority Letter	No	25,00 €	100 g	28,00 SEK	3,53 €	SE	Sweden	Portugal	PT
+Priority Letter	No	25,00 €	250 g	56,00 SEK	6,56 €	SE	Sweden	Portugal	PT
+Priority Letter	No	25,00 €	500 g	84,00 SEK	9,59 €	SE	Sweden	Portugal	PT
+Priority Letter Playmat	No	25,00 €	500 g	84,00 SEK	9,59 €	SE	Sweden	Portugal	PT
+Priority Letter	No	25,00 €	1000 g	140,00 SEK	15,65 €	SE	Sweden	Portugal	PT
+Priority Letter	No	25,00 €	2000 g	200,00 SEK	22,14 €	SE	Sweden	Portugal	PT
+Priority Letter - Registered 2.000 SEK (Online)	Yes	225,00 €	50 g	84,00 SEK	9,59 €	SE	Sweden	Portugal	PT
+Priority Letter - Registered 2.000 SEK (Online)	Yes	225,00 €	100 g	98,00 SEK	11,10 €	SE	Sweden	Portugal	PT
+Priority Letter - Registered 2.000 SEK (Online)	Yes	225,00 €	250 g	126,00 SEK	14,13 €	SE	Sweden	Portugal	PT
+Priority Letter - Registered 2.000 SEK (Online)	Yes	225,00 €	500 g	154,00 SEK	17,16 €	SE	Sweden	Portugal	PT
+Priority Letter - Registered 2.000 SEK (Online) Playmat	Yes	225,00 €	500 g	154,00 SEK	17,16 €	SE	Sweden	Portugal	PT
+Priority Letter - Registered 2.000 SEK (Online)	Yes	225,00 €	1000 g	210,00 SEK	23,22 €	SE	Sweden	Portugal	PT
+Priority Letter - Registered 2.000 SEK (Online)	Yes	225,00 €	2000 g	270,00 SEK	29,71 €	SE	Sweden	Portugal	PT
+Priority Letter - Registered 10.000 SEK (Online)	Yes	1130,00 €	50 g	114,00 SEK	12,83 €	SE	Sweden	Portugal	PT
+Priority Letter - Registered 10.000 SEK (Online)	Yes	1130,00 €	100 g	128,00 SEK	14,35 €	SE	Sweden	Portugal	PT
+Priority Letter - Registered 10.000 SEK (Online)	Yes	1130,00 €	250 g	156,00 SEK	17,38 €	SE	Sweden	Portugal	PT
+Priority Letter - Registered 10.000 SEK (Online)	Yes	1130,00 €	500 g	184,00 SEK	20,41 €	SE	Sweden	Portugal	PT
+Priority Letter - Registered 10.000 SEK (Online)	Yes	1130,00 €	1000 g	240,00 SEK	26,47 €	SE	Sweden	Portugal	PT
+Priority Letter - Registered 10.000 SEK (Online)	Yes	1130,00 €	2000 g	300,00 SEK	32,96 €	SE	Sweden	Portugal	PT
+International Parcel (Postpaket (online))	Yes	500,00 €	1000 g	308,00 SEK	34,33 €	SE	Sweden	Portugal	PT
+International Parcel (Postpaket (online))	Yes	500,00 €	2000 g	348,00 SEK	38,65 €	SE	Sweden	Portugal	PT
+International Parcel (Postpaket (online))	Yes	500,00 €	5000 g	468,00 SEK	51,64 €	SE	Sweden	Portugal	PT
+International Parcel (Postpaket (online))	Yes	500,00 €	10000 g	668,00 SEK	73,28 €	SE	Sweden	Portugal	PT
+International Parcel (Postpaket (online))	Yes	500,00 €	20000 g	1028,00 SEK	112,23 €	SE	Sweden	Portugal	PT
+UPS Standard Value 5.000€ (Flat Fee)	Yes	5000,00 €	5000 g	900,00 SEK	98,38 €	SE	Sweden	Portugal	PT
+Priority Letter (Standard Plus)	No	25,00 €	50 g	1,80 €	2,10 €	AT	Austria	Portugal	PT
+Priority Letter (Maxi)	No	25,00 €	500 g	4,50 €	5,00 €	AT	Austria	Portugal	PT
+Priority Letter (Maxi Plus)	No	25,00 €	1000 g	8,40 €	8,90 €	AT	Austria	Portugal	PT
+Priority Letter (Gross)	No	25,00 €	2000 g	12,90 €	13,40 €	AT	Austria	Portugal	PT
+Priority Letter (Gross) Playmat	No	25,00 €	2000 g	12,90 €	13,40 €	AT	Austria	Portugal	PT
+Registered Letter (Standard Plus Einschreiben)	Yes	100,00 €	50 g	4,65 €	5,15 €	AT	Austria	Portugal	PT
+Registered Letter (Maxi Einschreiben)	Yes	100,00 €	500 g	7,35 €	7,85 €	AT	Austria	Portugal	PT
+Registered Letter (Maxi Plus Einschreiben)	Yes	100,00 €	1000 g	11,25 €	11,75 €	AT	Austria	Portugal	PT
+Registered Letter (Gross Einschreiben)	Yes	100,00 €	2000 g	15,75 €	16,25 €	AT	Austria	Portugal	PT
+Registered Letter (Gross Einschreiben) Playmat	Yes	100,00 €	2000 g	15,75 €	16,25 €	AT	Austria	Portugal	PT
+Insured Letter (Standard Plus Brief Wert 300€)	Yes	300,00 €	20 g	7,65 €	8,15 €	AT	Austria	Portugal	PT
+Insured Letter (Maxi Brief Wert 300€)	Yes	300,00 €	500 g	10,35 €	10,85 €	AT	Austria	Portugal	PT
+Insured Letter (Maxi Plus Brief Wert 300€)	Yes	300,00 €	1000 g	14,25 €	14,75 €	AT	Austria	Portugal	PT
+Insured Letter (Gross Brief Wert 300€)	Yes	300,00 €	2000 g	18,75 €	19,25 €	AT	Austria	Portugal	PT
+Insured Letter (Standard Plus Brief Wert 500€)	Yes	500,00 €	20 g	9,65 €	10,15 €	AT	Austria	Portugal	PT
+Insured Letter (Maxi Brief Wert 500€)	Yes	500,00 €	500 g	12,35 €	12,85 €	AT	Austria	Portugal	PT
+Insured Letter (Maxi Plus Brief Wert 500€)	Yes	500,00 €	1000 g	16,25 €	16,75 €	AT	Austria	Portugal	PT
+Insured Letter (Gross Brief Wert 500€)	Yes	500,00 €	2000 g	20,75 €	21,25 €	AT	Austria	Portugal	PT
+Insured Letter (Standard Plus Brief Wert 1.000€)	Yes	1000,00 €	20 g	14,65 €	15,15 €	AT	Austria	Portugal	PT
+Insured Letter (Maxi Brief Wert 1.000€)	Yes	1000,00 €	500 g	17,35 €	17,85 €	AT	Austria	Portugal	PT
+Insured Letter (Maxi Plus Brief Wert 1.000€)	Yes	1000,00 €	1000 g	21,25 €	21,75 €	AT	Austria	Portugal	PT
+Insured Letter (Gross Brief Wert 1.000€)	Yes	1000,00 €	2000 g	25,75 €	26,25 €	AT	Austria	Portugal	PT
+Insured Letter (Standard Plus Brief Wert 1.500€)	Yes	1500,00 €	20 g	19,65 €	20,15 €	AT	Austria	Portugal	PT
+Insured Letter (Maxi Brief Wert 1.500€)	Yes	1500,00 €	500 g	22,35 €	22,85 €	AT	Austria	Portugal	PT
+Insured Letter (Maxi Plus Brief Wert 1.500€)	Yes	1500,00 €	1000 g	26,25 €	26,75 €	AT	Austria	Portugal	PT
+Insured Letter (Gross Brief Wert 1.500€)	Yes	1500,00 €	2000 g	30,75 €	31,25 €	AT	Austria	Portugal	PT
+Insured Letter (Standard Plus Brief Wert 3.000€)	Yes	3000,00 €	20 g	34,65 €	35,15 €	AT	Austria	Portugal	PT
+Insured Letter (Maxi Brief Wert 3.000€)	Yes	3000,00 €	500 g	37,35 €	37,85 €	AT	Austria	Portugal	PT
+Insured Letter (Maxi Plus Brief Wert 3.000€)	Yes	3000,00 €	1000 g	41,25 €	41,75 €	AT	Austria	Portugal	PT
+Insured Letter (Gross Brief Wert 3.000€)	Yes	3000,00 €	2000 g	45,75 €	46,25 €	AT	Austria	Portugal	PT
+Registered Parcel (Standard Paket)	Yes	510,00 €	2000 g	14,20 €	15,20 €	AT	Austria	Portugal	PT
+Registered Parcel (Standard Paket)	Yes	510,00 €	4000 g	15,20 €	16,20 €	AT	Austria	Portugal	PT
+Registered Parcel (Standard Paket)	Yes	510,00 €	10000 g	19,20 €	20,20 €	AT	Austria	Portugal	PT
+Registered Parcel (Standard Paket)	Yes	510,00 €	20000 g	29,20 €	30,20 €	AT	Austria	Portugal	PT
+Insured parcel (Standard Wertpaket 1.000€)	Yes	1000,00 €	2000 g	24,20 €	25,20 €	AT	Austria	Portugal	PT
+Insured parcel (Standard Wertpaket 1.000€)	Yes	1000,00 €	4000 g	25,20 €	26,20 €	AT	Austria	Portugal	PT
+Insured parcel (Standard Wertpaket 1.000€)	Yes	1000,00 €	10000 g	29,20 €	30,20 €	AT	Austria	Portugal	PT
+Insured parcel (Standard Wertpaket 1.000€)	Yes	1000,00 €	20000 g	41,20 €	42,20 €	AT	Austria	Portugal	PT
+UPS Standard 5.000€ Insurance (flat fee)	Yes	5000,00 €	5000 g	99,00 €	100,00 €	AT	Austria	Portugal	PT
+UPS Parcel with Insurance	Yes	10000,00 €	5000 g	199,00 €	200,00 €	AT	Austria	Portugal	PT
+Priority letter	No	25,00 €	50 g	2,30 BGN	1,48 €	BG	Bulgaria	Portugal	PT
+Priority letter	No	25,00 €	100 g	3,30 BGN	2,19 €	BG	Bulgaria	Portugal	PT
+Priority letter	No	25,00 €	150 g	4,20 BGN	2,65 €	BG	Bulgaria	Portugal	PT
+Priority letter	No	25,00 €	250 g	5,90 BGN	3,52 €	BG	Bulgaria	Portugal	PT
+Priority letter	No	25,00 €	350 g	7,50 BGN	4,33 €	BG	Bulgaria	Portugal	PT
+Priority letter	No	25,00 €	500 g	9,80 BGN	5,51 €	BG	Bulgaria	Portugal	PT
+Priority letter	No	25,00 €	1000 g	18,80 BGN	10,11 €	BG	Bulgaria	Portugal	PT
+Priority letter	No	25,00 €	2000 g	28,50 BGN	15,07 €	BG	Bulgaria	Portugal	PT
+Registered Letter	Yes	100,00 €	50 g	5,30 BGN	3,21 €	BG	Bulgaria	Portugal	PT
+Registered Letter	Yes	100,00 €	100 g	6,30 BGN	3,72 €	BG	Bulgaria	Portugal	PT
+Registered Letter	Yes	100,00 €	150 g	7,20 BGN	4,18 €	BG	Bulgaria	Portugal	PT
+Registered Letter	Yes	100,00 €	250 g	8,90 BGN	5,05 €	BG	Bulgaria	Portugal	PT
+Registered Letter	Yes	100,00 €	350 g	10,50 BGN	5,87 €	BG	Bulgaria	Portugal	PT
+Registered Letter	Yes	100,00 €	500 g	12,80 BGN	7,04 €	BG	Bulgaria	Portugal	PT
+Registered Letter	Yes	100,00 €	1000 g	21,80 BGN	11,65 €	BG	Bulgaria	Portugal	PT
+Registered Letter	Yes	100,00 €	2000 g	31,50 BGN	16,61 €	BG	Bulgaria	Portugal	PT
+Parcel	Yes	1000,00 €	1000 g	32,60 BGN	17,67 €	BG	Bulgaria	Portugal	PT
+Parcel	Yes	1000,00 €	2000 g	44,40 BGN	23,70 €	BG	Bulgaria	Portugal	PT
+Parcel	Yes	1000,00 €	5000 g	79,80 BGN	41,80 €	BG	Bulgaria	Portugal	PT
+Parcel	Yes	1000,00 €	10000 g	138,80 BGN	71,97 €	BG	Bulgaria	Portugal	PT
+Parcel	Yes	1000,00 €	20000 g	256,80 BGN	132,30 €	BG	Bulgaria	Portugal	PT
+Priority Letter	No	25,00 €	50 g	11,00 HRK	1,76 €	HR	Croatia	Portugal	PT
+Priority Letter	No	25,00 €	100 g	20,00 HRK	3,15 €	HR	Croatia	Portugal	PT
+Priority Letter	No	25,00 €	250 g	37,00 HRK	5,39 €	HR	Croatia	Portugal	PT
+Priority Letter	No	25,00 €	500 g	62,00 HRK	8,70 €	HR	Croatia	Portugal	PT
+Priority Letter	No	25,00 €	1000 g	98,00 HRK	13,46 €	HR	Croatia	Portugal	PT
+Priority Letter	No	25,00 €	2000 g	136,00 HRK	18,49 €	HR	Croatia	Portugal	PT
+Registered Letter	Yes	75,00 €	50 g	26,80 HRK	4,05 €	HR	Croatia	Portugal	PT
+Registered Letter	Yes	75,00 €	100 g	36,60 HRK	5,34 €	HR	Croatia	Portugal	PT
+Registered Letter	Yes	75,00 €	250 g	59,60 HRK	8,38 €	HR	Croatia	Portugal	PT
+Registered Letter	Yes	75,00 €	500 g	92,40 HRK	12,72 €	HR	Croatia	Portugal	PT
+Registered Letter	Yes	75,00 €	1000 g	130,00 HRK	17,70 €	HR	Croatia	Portugal	PT
+Registered Letter	Yes	75,00 €	2000 g	167,60 HRK	22,67 €	HR	Croatia	Portugal	PT
+Value Letter (2x 65 DTS)	Yes	170,00 €	50 g	39,30 HRK	5,70 €	HR	Croatia	Portugal	PT
+Value Letter (2x 65 DTS)	Yes	170,00 €	100 g	49,10 HRK	7,00 €	HR	Croatia	Portugal	PT
+Value Letter (2x 65 DTS)	Yes	170,00 €	250 g	72,10 HRK	10,04 €	HR	Croatia	Portugal	PT
+Value Letter (2x 65 DTS)	Yes	170,00 €	500 g	104,60 HRK	14,34 €	HR	Croatia	Portugal	PT
+Value Letter (2x 65 DTS)	Yes	170,00 €	1000 g	142,50 HRK	19,35 €	HR	Croatia	Portugal	PT
+Value Letter (2x 65 DTS)	Yes	170,00 €	2000 g	179,60 HRK	24,26 €	HR	Croatia	Portugal	PT
+Value Letter (5x 65 DTS)	Yes	425,00 €	50 g	51,30 HRK	7,29 €	HR	Croatia	Portugal	PT
+Value Letter (5x 65 DTS)	Yes	425,00 €	100 g	61,10 HRK	8,58 €	HR	Croatia	Portugal	PT
+Value Letter (5x 65 DTS)	Yes	425,00 €	250 g	84,10 HRK	11,63 €	HR	Croatia	Portugal	PT
+Value Letter (5x 65 DTS)	Yes	425,00 €	500 g	116,60 HRK	15,93 €	HR	Croatia	Portugal	PT
+Value Letter (5x 65 DTS)	Yes	425,00 €	1000 g	154,50 HRK	20,94 €	HR	Croatia	Portugal	PT
+Value Letter (5x 65 DTS)	Yes	425,00 €	2000 g	191,60 HRK	25,85 €	HR	Croatia	Portugal	PT
+Value Letter (10x 65 DTS)	Yes	850,00 €	50 g	71,30 HRK	9,93 €	HR	Croatia	Portugal	PT
+Value Letter (10x 65 DTS)	Yes	850,00 €	100 g	81,10 HRK	11,23 €	HR	Croatia	Portugal	PT
+Value Letter (10x 65 DTS)	Yes	850,00 €	250 g	104,10 HRK	14,27 €	HR	Croatia	Portugal	PT
+Value Letter (10x 65 DTS)	Yes	850,00 €	500 g	136,60 HRK	18,57 €	HR	Croatia	Portugal	PT
+Value Letter (10x 65 DTS)	Yes	850,00 €	1000 g	174,50 HRK	23,59 €	HR	Croatia	Portugal	PT
+Value Letter (10x 65 DTS)	Yes	850,00 €	2000 g	211,60 HRK	28,49 €	HR	Croatia	Portugal	PT
+Premium Parcel PLUS (5x 65 DTS)	Yes	425,00 €	1000 g	182,00 HRK	25,08 €	HR	Croatia	Portugal	PT
+Premium Parcel PLUS (5x 65 DTS)	Yes	425,00 €	2000 g	226,00 HRK	30,90 €	HR	Croatia	Portugal	PT
+Premium Parcel PLUS (5x 65 DTS)	Yes	425,00 €	5000 g	298,00 HRK	40,42 €	HR	Croatia	Portugal	PT
+Premium Parcel PLUS (5x 65 DTS)	Yes	425,00 €	10000 g	348,00 HRK	47,04 €	HR	Croatia	Portugal	PT
+Premium Parcel PLUS (10x 65 DTS)	Yes	850,00 €	1000 g	204,00 HRK	27,99 €	HR	Croatia	Portugal	PT
+Premium Parcel PLUS (10x 65 DTS)	Yes	850,00 €	2000 g	248,00 HRK	33,81 €	HR	Croatia	Portugal	PT
+Premium Parcel PLUS (10x 65 DTS)	Yes	850,00 €	5000 g	320,00 HRK	43,33 €	HR	Croatia	Portugal	PT
+Premium Parcel PLUS (10x 65 DTS)	Yes	850,00 €	10000 g	370,00 HRK	49,95 €	HR	Croatia	Portugal	PT
+Premium Parcel PLUS (20x 65 DTS)	Yes	1700,00 €	1000 g	244,00 HRK	33,28 €	HR	Croatia	Portugal	PT
+Premium Parcel PLUS (20x 65 DTS)	Yes	1700,00 €	2000 g	288,00 HRK	39,10 €	HR	Croatia	Portugal	PT
+Premium Parcel PLUS (20x 65 DTS)	Yes	1700,00 €	5000 g	360,00 HRK	48,63 €	HR	Croatia	Portugal	PT
+Premium Parcel PLUS (20x 65 DTS)	Yes	1700,00 €	10000 g	410,00 HRK	55,24 €	HR	Croatia	Portugal	PT
+Regular Letter	No	25,00 €	50 g	25,00 CZK	1,22 €	CZ	Czech Republic	Portugal	PT
+Regular Letter	No	25,00 €	100 g	41,00 CZK	2,02 €	CZ	Czech Republic	Portugal	PT
+Regular Letter	No	25,00 €	250 g	76,00 CZK	3,31 €	CZ	Czech Republic	Portugal	PT
+Regular Letter	No	25,00 €	500 g	110,00 CZK	4,57 €	CZ	Czech Republic	Portugal	PT
+Regular Letter (Playmat)	No	25,00 €	500 g	110,00 CZK	4,57 €	CZ	Czech Republic	Portugal	PT
+Regular Letter	No	25,00 €	1000 g	190,00 CZK	7,53 €	CZ	Czech Republic	Portugal	PT
+Registered Letter	Yes	60,00 €	50 g	68,00 CZK	3,01 €	CZ	Czech Republic	Portugal	PT
+Registered Letter	Yes	60,00 €	100 g	90,00 CZK	3,83 €	CZ	Czech Republic	Portugal	PT
+Registered Letter	Yes	60,00 €	250 g	125,00 CZK	5,12 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Playmat)	Yes	60,00 €	500 g	158,00 CZK	6,34 €	CZ	Czech Republic	Portugal	PT
+Registered Letter	Yes	60,00 €	500 g	158,00 CZK	6,34 €	CZ	Czech Republic	Portugal	PT
+Registered Letter	Yes	60,00 €	1000 g	238,00 CZK	9,30 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 2.600 CZK)	Yes	200,00 €	50 g	102,00 CZK	4,27 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 2.600 CZK)	Yes	200,00 €	100 g	128,00 CZK	5,23 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 2.600 CZK)	Yes	200,00 €	250 g	163,00 CZK	6,53 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 2.600 CZK)	Yes	200,00 €	500 g	196,00 CZK	7,75 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 2.600 CZK)	Yes	200,00 €	1000 g	276,00 CZK	10,71 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 13.000 CZK)	Yes	500,00 €	50 g	132,00 CZK	5,38 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 13.000 CZK)	Yes	500,00 €	100 g	158,00 CZK	6,34 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 13.000 CZK)	Yes	500,00 €	250 g	193,00 CZK	7,64 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 13.000 CZK)	Yes	500,00 €	500 g	226,00 CZK	8,86 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 13.000 CZK)	Yes	500,00 €	1000 g	306,00 CZK	11,82 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 26.000 CZK)	Yes	1000,00 €	50 g	171,00 CZK	6,82 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 26.000 CZK)	Yes	1000,00 €	100 g	197,00 CZK	7,78 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 26.000 CZK)	Yes	1000,00 €	250 g	232,00 CZK	9,08 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 26.000 CZK)	Yes	1000,00 €	500 g	265,00 CZK	10,30 €	CZ	Czech Republic	Portugal	PT
+Registered Letter (Value 26.000 CZK)	Yes	1000,00 €	1000 g	345,00 CZK	13,26 €	CZ	Czech Republic	Portugal	PT
+Parcel 	No	25,00 €	2000 g	641,00 CZK	24,70 €	CZ	Czech Republic	Portugal	PT
+Parcel 	No	25,00 €	5000 g	1083,00 CZK	41,05 €	CZ	Czech Republic	Portugal	PT
+Parcel 	No	25,00 €	10000 g	1820,00 CZK	68,30 €	CZ	Czech Republic	Portugal	PT
+Parcel 	No	25,00 €	20000 g	3987,00 CZK	148,43 €	CZ	Czech Republic	Portugal	PT
+Registered Parcel (Value 5.000 CZK)	Yes	360,00 €	2000 g	656,00 CZK	25,26 €	CZ	Czech Republic	Portugal	PT
+Registered Parcel (Value 5.000 CZK)	Yes	360,00 €	5000 g	1098,00 CZK	41,60 €	CZ	Czech Republic	Portugal	PT
+Registered Parcel (Value 5.000 CZK)	Yes	360,00 €	10000 g	1835,00 CZK	68,85 €	CZ	Czech Republic	Portugal	PT
+Registered Parcel (Value 5.000 CZK)	Yes	360,00 €	20000 g	4007,00 CZK	149,17 €	CZ	Czech Republic	Portugal	PT
+Registered Parcel (Value 30.000 CZK)	Yes	2000,00 €	2000 g	731,00 CZK	28,03 €	CZ	Czech Republic	Portugal	PT
+Registered Parcel (Value 30.000 CZK)	Yes	2000,00 €	5000 g	1173,00 CZK	44,38 €	CZ	Czech Republic	Portugal	PT
+Registered Parcel (Value 30.000 CZK)	Yes	2000,00 €	10000 g	1910,00 CZK	71,63 €	CZ	Czech Republic	Portugal	PT
+Registered Parcel (Value 30.000 CZK)	Yes	2000,00 €	20000 g	4107,00 CZK	152,87 €	CZ	Czech Republic	Portugal	PT
+Registered Parcel (Value 270.000 CZK)	Yes	10000,00 €	2000 g	1451,00 CZK	54,66 €	CZ	Czech Republic	Portugal	PT
+Registered Parcel (Value 270.000 CZK)	Yes	10000,00 €	5000 g	1893,00 CZK	71,00 €	CZ	Czech Republic	Portugal	PT
+Registered Parcel (Value 270.000 CZK)	Yes	10000,00 €	10000 g	2630,00 CZK	98,25 €	CZ	Czech Republic	Portugal	PT
+Registered Parcel (Value 270.000 CZK)	Yes	10000,00 €	20000 g	5067,00 CZK	188,37 €	CZ	Czech Republic	Portugal	PT
+Letter (Airmail)	No	25,00 €	20 g	0,51 €	0,81 €	CY	Cyprus	Portugal	PT
+Letter (Airmail)	No	25,00 €	50 g	0,85 €	1,15 €	CY	Cyprus	Portugal	PT
+Letter (Airmail)	No	25,00 €	100 g	1,71 €	2,21 €	CY	Cyprus	Portugal	PT
+Letter (Airmail)	No	25,00 €	150 g	2,56 €	3,06 €	CY	Cyprus	Portugal	PT
+Letter (Airmail)	No	25,00 €	200 g	3,42 €	3,92 €	CY	Cyprus	Portugal	PT
+Letter (Airmail)	No	25,00 €	250 g	4,27 €	4,77 €	CY	Cyprus	Portugal	PT
+Letter (Airmail)	No	25,00 €	350 g	5,13 €	5,63 €	CY	Cyprus	Portugal	PT
+Letter (Airmail)	No	25,00 €	500 g	6,83 €	7,33 €	CY	Cyprus	Portugal	PT
+Letter (Airmail)	No	25,00 €	1000 g	13,63 €	14,13 €	CY	Cyprus	Portugal	PT
+Letter (Airmail)	No	25,00 €	2000 g	20,50 €	21,00 €	CY	Cyprus	Portugal	PT
+Registered Letter (Airmail)	Yes	100,00 €	20 g	2,22 €	2,72 €	CY	Cyprus	Portugal	PT
+Registered Letter (Airmail)	Yes	100,00 €	50 g	2,56 €	3,06 €	CY	Cyprus	Portugal	PT
+Registered Letter (Airmail)	Yes	100,00 €	100 g	3,42 €	3,92 €	CY	Cyprus	Portugal	PT
+Registered Letter (Airmail)	Yes	100,00 €	150 g	4,27 €	4,77 €	CY	Cyprus	Portugal	PT
+Registered Letter (Airmail)	Yes	100,00 €	200 g	5,13 €	5,63 €	CY	Cyprus	Portugal	PT
+Registered Letter (Airmail)	Yes	100,00 €	250 g	5,98 €	6,48 €	CY	Cyprus	Portugal	PT
+Registered Letter (Airmail)	Yes	100,00 €	350 g	6,84 €	7,34 €	CY	Cyprus	Portugal	PT
+Registered Letter (Airmail)	Yes	100,00 €	500 g	8,54 €	9,04 €	CY	Cyprus	Portugal	PT
+Registered Letter (Airmail)	Yes	100,00 €	1000 g	15,34 €	15,84 €	CY	Cyprus	Portugal	PT
+Registered Letter (Airmail)	Yes	100,00 €	2000 g	22,21 €	22,71 €	CY	Cyprus	Portugal	PT
+Parcel (Airmail)	Yes	1000,00 €	1000 g	17,09 €	18,09 €	CY	Cyprus	Portugal	PT
+Parcel (Airmail)	Yes	1000,00 €	2000 g	24,00 €	25,00 €	CY	Cyprus	Portugal	PT
+Parcel (Airmail)	Yes	1000,00 €	5000 g	44,50 €	45,50 €	CY	Cyprus	Portugal	PT
+Parcel (Airmail)	Yes	1000,00 €	10000 g	61,60 €	62,60 €	CY	Cyprus	Portugal	PT
+Parcel (Airmail)	Yes	1000,00 €	15000 g	78,70 €	79,70 €	CY	Cyprus	Portugal	PT
+Parcel (Airmail)	Yes	1000,00 €	20000 g	95,80 €	96,80 €	CY	Cyprus	Portugal	PT
+Parcel (Airmail)	Yes	1000,00 €	30000 g	130,00 €	131,00 €	CY	Cyprus	Portugal	PT
+Letter	No	25,00 €	250 g	1,40 €	1,90 €	EE	Estonia	Portugal	PT
+Maxi Letter	No	25,00 €	250 g	3,55 €	4,05 €	EE	Estonia	Portugal	PT
+Maxi Letter	No	25,00 €	500 g	6,20 €	6,70 €	EE	Estonia	Portugal	PT
+Maxi Letter	No	25,00 €	1000 g	10,00 €	10,50 €	EE	Estonia	Portugal	PT
+Maxi Letter	No	25,00 €	2000 g	14,40 €	14,90 €	EE	Estonia	Portugal	PT
+Registered Letter	Yes	100,00 €	250 g	3,35 €	3,85 €	EE	Estonia	Portugal	PT
+Registered Maxi Letter	Yes	100,00 €	250 g	5,50 €	6,00 €	EE	Estonia	Portugal	PT
+Registered Maxi Letter	Yes	100,00 €	500 g	8,25 €	8,75 €	EE	Estonia	Portugal	PT
+Registered Maxi Letter	Yes	100,00 €	1000 g	13,00 €	13,50 €	EE	Estonia	Portugal	PT
+Registered Maxi Letter	Yes	100,00 €	2000 g	16,80 €	17,30 €	EE	Estonia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	1000 g	16,50 €	17,50 €	EE	Estonia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	2000 g	18,00 €	19,00 €	EE	Estonia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	3000 g	19,50 €	20,50 €	EE	Estonia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	4000 g	21,00 €	22,00 €	EE	Estonia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	5000 g	22,50 €	23,50 €	EE	Estonia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	6000 g	24,00 €	25,00 €	EE	Estonia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	7000 g	25,50 €	26,50 €	EE	Estonia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	8000 g	27,00 €	28,00 €	EE	Estonia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	9000 g	28,50 €	29,50 €	EE	Estonia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	10000 g	30,00 €	31,00 €	EE	Estonia	Portugal	PT
+Priority Letter (Lettre Prioritaire)	No	25,00 €	20 g	1,00 €	1,30 €	FR	France	Portugal	PT
+Priority Letter (Lettre Prioritaire)	No	25,00 €	100 g	2,00 €	2,50 €	FR	France	Portugal	PT
+Priority Letter (Lettre Prioritaire)	No	25,00 €	250 g	5,00 €	5,50 €	FR	France	Portugal	PT
+Priority Letter (Lettre Prioritaire)	No	25,00 €	500 g	8,00 €	8,50 €	FR	France	Portugal	PT
+Priority Letter (Lettre Prioritaire)	No	25,00 €	2000 g	14,00 €	14,50 €	FR	France	Portugal	PT
+Recommended Priority Letter (Lettre Prioritaire R1)	Yes	45,00 €	50 g	6,00 €	6,50 €	FR	France	Portugal	PT
+Recommended Priority Letter (Lettre Prioritaire R1)	Yes	45,00 €	100 g	7,00 €	7,50 €	FR	France	Portugal	PT
+Recommended Priority Letter (Lettre Prioritaire R1)	Yes	45,00 €	250 g	9,00 €	9,50 €	FR	France	Portugal	PT
+Recommended Priority Letter (Lettre Prioritaire R1)	Yes	45,00 €	500 g	13,00 €	13,50 €	FR	France	Portugal	PT
+Recommended Priority Letter (Lettre Prioritaire R1)	Yes	45,00 €	1000 g	17,50 €	18,00 €	FR	France	Portugal	PT
+Recommended Priority Letter (Lettre Prioritaire R1)	Yes	45,00 €	2000 g	19,00 €	19,50 €	FR	France	Portugal	PT
+Recommended Priority Letter (Lettre Prioritaire R2)	Yes	300,00 €	50 g	7,00 €	7,50 €	FR	France	Portugal	PT
+Recommended Priority Letter (Lettre Prioritaire R2)	Yes	300,00 €	100 g	8,00 €	8,50 €	FR	France	Portugal	PT
+Recommended Priority Letter (Lettre Prioritaire R2)	Yes	300,00 €	250 g	10,00 €	10,50 €	FR	France	Portugal	PT
+Recommended Priority Letter (Lettre Prioritaire R2)	Yes	300,00 €	500 g	14,00 €	14,50 €	FR	France	Portugal	PT
+Recommended Priority Letter (Lettre Prioritaire R2)	Yes	300,00 €	1000 g	18,50 €	19,00 €	FR	France	Portugal	PT
+Recommended Priority Letter (Lettre Prioritaire R2)	Yes	300,00 €	2000 g	20,00 €	20,50 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 150€)	Yes	150,00 €	500 g	13,15 €	14,15 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 150€)	Yes	150,00 €	1000 g	15,85 €	16,85 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 150€)	Yes	150,00 €	2000 g	17,50 €	18,50 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 150€)	Yes	150,00 €	5000 g	22,20 €	23,20 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 150€)	Yes	150,00 €	10000 g	36,00 €	37,00 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 150€)	Yes	150,00 €	30000 g	59,00 €	60,00 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 300€)	Yes	300,00 €	500 g	14,15 €	15,15 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 300€)	Yes	300,00 €	1000 g	16,85 €	17,85 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 300€)	Yes	300,00 €	2000 g	18,50 €	19,50 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 300€)	Yes	300,00 €	5000 g	23,20 €	24,20 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 300€)	Yes	300,00 €	10000 g	37,00 €	38,00 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 300€)	Yes	300,00 €	30000 g	60,00 €	61,00 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 600€)	Yes	600,00 €	500 g	16,15 €	17,15 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 600€)	Yes	600,00 €	1000 g	18,85 €	19,85 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 600€)	Yes	600,00 €	2000 g	20,50 €	21,50 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 600€)	Yes	600,00 €	5000 g	25,20 €	26,20 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 600€)	Yes	600,00 €	10000 g	39,00 €	40,00 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 600€)	Yes	600,00 €	30000 g	62,00 €	63,00 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 900€)	Yes	900,00 €	500 g	18,15 €	19,15 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 900€)	Yes	900,00 €	1000 g	20,85 €	21,85 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 900€)	Yes	900,00 €	2000 g	22,50 €	23,50 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 900€)	Yes	900,00 €	5000 g	27,20 €	28,20 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 900€)	Yes	900,00 €	10000 g	41,00 €	42,00 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 900€)	Yes	900,00 €	30000 g	64,00 €	65,00 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 1.500€)	Yes	1500,00 €	500 g	22,15 €	23,15 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 1.500€)	Yes	1500,00 €	1000 g	24,85 €	25,85 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 1.500€)	Yes	1500,00 €	2000 g	26,50 €	27,50 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 1.500€)	Yes	1500,00 €	5000 g	31,20 €	32,20 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 1.500€)	Yes	1500,00 €	10000 g	45,00 €	46,00 €	FR	France	Portugal	PT
+Insured Parcel (Colissimo Ad Valorem 1.500€)	Yes	1500,00 €	30000 g	68,00 €	69,00 €	FR	France	Portugal	PT
+UPS Standard Value 10.000€ (Flat Fee)	Yes	10000,00 €	6000 g	99,00 €	100,00 €	FR	France	Portugal	PT
+Letter (Standardbrief)	No	25,00 €	20 g	0,90 €	1,20 €	D	Germany	Portugal	PT
+Letter (Kompaktbrief)	No	25,00 €	50 g	1,50 €	1,80 €	D	Germany	Portugal	PT
+Letter (Grossbrief)	No	25,00 €	500 g	3,70 €	4,20 €	D	Germany	Portugal	PT
+Letter (Grossbrief) Playmat	No	25,00 €	500 g	3,70 €	4,20 €	D	Germany	Portugal	PT
+Letter (Maxibrief)	No	25,00 €	1000 g	7,00 €	7,50 €	D	Germany	Portugal	PT
+Letter (Maxibrief)	No	25,00 €	2000 g	17,00 €	17,50 €	D	Germany	Portugal	PT
+Registered Letter (Kompaktbrief + Einschreiben)	Yes	105,00 €	50 g	4,00 €	4,50 €	D	Germany	Portugal	PT
+Registered Letter (Grossbrief + Einschreiben)	Yes	105,00 €	500 g	6,20 €	6,70 €	D	Germany	Portugal	PT
+Registered Letter (Grossbrief + Einschreiben)*	Yes	105,00 €	500 g	6,20 €	6,70 €	D	Germany	Portugal	PT
+Registered Letter (Maxibrief + Einschreiben)	Yes	105,00 €	1000 g	9,50 €	10,00 €	D	Germany	Portugal	PT
+Registered Letter (Maxibrief + Einschreiben)	Yes	105,00 €	2000 g	19,50 €	20,00 €	D	Germany	Portugal	PT
+Insured Letter (Kompaktbrief + Wertbrief 200€)	Yes	200,00 €	50 g	8,00 €	8,50 €	D	Germany	Portugal	PT
+Insured Letter ( Grossbrief + Wertbrief 200€)	Yes	200,00 €	500 g	10,20 €	10,70 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 200€)	Yes	200,00 €	1000 g	13,50 €	14,00 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 200€)	Yes	200,00 €	2000 g	23,50 €	24,00 €	D	Germany	Portugal	PT
+Insured Letter (Kompaktbrief + Wertbrief 300€)	Yes	300,00 €	50 g	10,00 €	10,50 €	D	Germany	Portugal	PT
+Insured Letter (Grossbrief + Wertbrief 300€)	Yes	300,00 €	500 g	12,20 €	12,70 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 300€)	Yes	300,00 €	1000 g	15,50 €	16,00 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 300€)	Yes	300,00 €	2000 g	25,50 €	26,00 €	D	Germany	Portugal	PT
+Insured Letter (Kompaktbrief + Wertbrief 400€)	Yes	400,00 €	50 g	12,00 €	12,50 €	D	Germany	Portugal	PT
+Insured Letter (Grossbrief + Wertbrief 400€)	Yes	400,00 €	500 g	14,20 €	14,70 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 400€)	Yes	400,00 €	1000 g	17,50 €	18,00 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 400€)	Yes	400,00 €	2000 g	27,50 €	28,00 €	D	Germany	Portugal	PT
+Insured Letter (Kompaktbrief + Wertbrief 500€)	Yes	500,00 €	50 g	14,00 €	14,50 €	D	Germany	Portugal	PT
+Insured Letter (Grossbrief + Wertbrief 500€)	Yes	500,00 €	500 g	16,20 €	16,70 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 500€)	Yes	500,00 €	1000 g	19,50 €	20,00 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 500€)	Yes	500,00 €	2000 g	29,50 €	30,00 €	D	Germany	Portugal	PT
+Insured Letter (Kompaktbrief + Wertbrief 1.000€)	Yes	1000,00 €	50 g	24,00 €	24,50 €	D	Germany	Portugal	PT
+Insured Letter (Grossbrief + Wertbrief 1.000€)	Yes	1000,00 €	500 g	26,20 €	26,70 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 1.000€)	Yes	1000,00 €	1000 g	29,50 €	30,00 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 1.000€)	Yes	1000,00 €	2000 g	39,50 €	40,00 €	D	Germany	Portugal	PT
+Insured Letter (Kompaktbrief + Wertbrief 2.000€)	Yes	2000,00 €	50 g	44,00 €	44,50 €	D	Germany	Portugal	PT
+Insured Letter (Grossbrief + Wertbrief 2.000€)	Yes	2000,00 €	500 g	46,20 €	46,70 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 2.000€)	Yes	2000,00 €	1000 g	49,50 €	50,00 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 2.000€)	Yes	2000,00 €	2000 g	59,50 €	60,00 €	D	Germany	Portugal	PT
+Insured Letter (Kompaktbrief + Wertbrief 3.000€)	Yes	3000,00 €	50 g	64,00 €	64,50 €	D	Germany	Portugal	PT
+Insured Letter (Grossbrief + Wertbrief 3.000€)	Yes	3000,00 €	500 g	66,20 €	66,70 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 3.000€)	Yes	3000,00 €	1000 g	69,50 €	70,00 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 3.000€)	Yes	3000,00 €	2000 g	79,50 €	80,00 €	D	Germany	Portugal	PT
+Insured Letter (Kompaktbrief + Wertbrief 4.000€)	Yes	4000,00 €	50 g	84,00 €	84,50 €	D	Germany	Portugal	PT
+Insured Letter (Grossbrief + Wertbrief 4.000€)	Yes	4000,00 €	500 g	86,20 €	86,70 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 4.000€)	Yes	4000,00 €	1000 g	89,50 €	90,00 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 4.000€)	Yes	4000,00 €	2000 g	99,50 €	100,00 €	D	Germany	Portugal	PT
+Insured Letter (Kompaktbrief + Wertbrief 5.000€)	Yes	5000,00 €	50 g	104,00 €	104,50 €	D	Germany	Portugal	PT
+Insured Letter (Grossbrief + Wertbrief 5.000€)	Yes	5000,00 €	500 g	106,20 €	106,70 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 5.000€)	Yes	5000,00 €	1000 g	109,50 €	110,00 €	D	Germany	Portugal	PT
+Insured Letter (Maxibrief + Wertbrief 5.000€)	Yes	5000,00 €	2000 g	119,50 €	120,00 €	D	Germany	Portugal	PT
+Parcel (DHL Päckchen (Online))	No	25,00 €	2000 g	8,90 €	9,90 €	D	Germany	Portugal	PT
+Registered Parcel (DHL Paket (Online))	Yes	500,00 €	2000 g	15,00 €	16,00 €	D	Germany	Portugal	PT
+Registered Parcel (DHL Paket (Online))	Yes	500,00 €	10000 g	22,00 €	23,00 €	D	Germany	Portugal	PT
+Registered Parcel (DHL Paket (Online))	Yes	500,00 €	20000 g	32,00 €	33,00 €	D	Germany	Portugal	PT
+Registered Parcel (DHL Paket (Online))	Yes	500,00 €	31500 g	42,00 €	43,00 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 1.000€)	Yes	1000,00 €	2000 g	29,50 €	30,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 1.000€)	Yes	1000,00 €	10000 g	36,50 €	37,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 1.000€)	Yes	1000,00 €	20000 g	46,50 €	47,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 1.000€)	Yes	1000,00 €	31500 g	56,50 €	57,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 2.000€)	Yes	2000,00 €	2000 g	44,50 €	45,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 2.000€)	Yes	2000,00 €	10000 g	51,50 €	52,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 2.000€)	Yes	2000,00 €	20000 g	61,50 €	62,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 2.000€)	Yes	2000,00 €	31500 g	71,50 €	72,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 3.000€)	Yes	3000,00 €	2000 g	59,50 €	60,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 3.000€)	Yes	3000,00 €	10000 g	66,50 €	67,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 3.000€)	Yes	3000,00 €	20000 g	76,50 €	77,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 3.000€)	Yes	3000,00 €	31500 g	86,50 €	87,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 4.000€)	Yes	4000,00 €	2000 g	74,50 €	75,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 4.000€)	Yes	4000,00 €	10000 g	81,50 €	82,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 4.000€)	Yes	4000,00 €	20000 g	91,50 €	92,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 4.000€)	Yes	4000,00 €	31500 g	101,50 €	102,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 5.000€)	Yes	5000,00 €	2000 g	89,50 €	90,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 5.000€)	Yes	5000,00 €	10000 g	96,50 €	97,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 5.000€)	Yes	5000,00 €	20000 g	106,50 €	107,50 €	D	Germany	Portugal	PT
+Insured Parcel (DHL Wertpaket 5.000€)	Yes	5000,00 €	31500 g	116,50 €	117,50 €	D	Germany	Portugal	PT
+UPS Standard Wert 10.000€ (Pauschal)	Yes	10000,00 €	5000 g	99,00 €	100,00 €	D	Germany	Portugal	PT
+Priority Letter (A) – Small	No	25,00 €	20 g	0,90 €	1,20 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Small	No	25,00 €	50 g	1,30 €	1,60 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Large	No	25,00 €	100 g	2,20 €	2,70 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Large	No	25,00 €	200 g	3,00 €	3,50 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Large	No	25,00 €	500 g	4,50 €	5,00 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Irregular	No	25,00 €	500 g	5,90 €	6,40 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Irregular	No	25,00 €	1000 g	8,70 €	9,20 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Irregular	No	25,00 €	2000 g	14,00 €	14,50 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Small – Registered	Yes	50,00 €	20 g	3,40 €	3,90 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Small – Registered	Yes	50,00 €	50 g	3,80 €	4,30 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Large – Registered	Yes	50,00 €	100 g	4,70 €	5,20 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Large – Registered	Yes	50,00 €	200 g	5,50 €	6,00 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Large – Registered	Yes	50,00 €	500 g	7,00 €	7,50 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Irregular – Registered	Yes	50,00 €	500 g	8,40 €	8,90 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Irregular – Registered	Yes	50,00 €	1000 g	11,20 €	11,70 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Irregular – Registered	Yes	50,00 €	2000 g	16,50 €	17,00 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Small – Registered – Declared Value 200€	Yes	200,00 €	20 g	6,20 €	6,70 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Small – Registered – Declared Value 200€	Yes	200,00 €	50 g	6,60 €	7,10 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Large – Registered – Declared Value 200€	Yes	200,00 €	100 g	7,50 €	8,00 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Large – Registered – Declared Value 200€	Yes	200,00 €	200 g	8,30 €	8,80 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Large – Registered – Declared Value 200€	Yes	200,00 €	500 g	9,80 €	10,30 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Irregular – Registered – Declared Value 200€	Yes	200,00 €	500 g	11,20 €	11,70 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Irregular – Registered – Declared Value 200€	Yes	200,00 €	1000 g	14,00 €	14,50 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Irregular – Registered – Declared Value 200€	Yes	200,00 €	2000 g	19,30 €	19,80 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Irregular – Registered – Declared Value 1000€	Yes	1000,00 €	2000 g	21,70 €	22,20 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Irregular – Registered – Declared Value 2000€	Yes	2000,00 €	2000 g	24,70 €	25,20 €	GR	Greece	Portugal	PT
+Priority Letter (A) – Irregular – Registered – Declared Value 5000€	Yes	5000,00 €	5000 g	38,50 €	39,00 €	GR	Greece	Portugal	PT
+Registered Parcel	Yes	1000,00 €	2000 g	29,63 €	30,63 €	GR	Greece	Portugal	PT
+Registered Parcel	Yes	1000,00 €	5000 g	42,71 €	43,71 €	GR	Greece	Portugal	PT
+Registered Parcel	Yes	1000,00 €	10000 g	64,52 €	65,52 €	GR	Greece	Portugal	PT
+Registered Parcel	Yes	1000,00 €	20000 g	108,14 €	109,14 €	GR	Greece	Portugal	PT
+UPS Standard Parcel (Insurance 10.000€)	Yes	10000,00 €	5000 g	99,00 €	100,00 €	GR	Greece	Portugal	PT
+Priority Letter	No	25,00 €	50 g	445,00 HUF	1,73 €	HU	Hungary	Portugal	PT
+Priority Letter	No	25,00 €	100 g	715,00 HUF	2,80 €	HU	Hungary	Portugal	PT
+Priority Letter	No	25,00 €	250 g	1190,00 HUF	4,33 €	HU	Hungary	Portugal	PT
+Priority Letter	No	25,00 €	500 g	1960,00 HUF	6,81 €	HU	Hungary	Portugal	PT
+Priority Letter	No	25,00 €	1000 g	3390,00 HUF	11,42 €	HU	Hungary	Portugal	PT
+Priority Letter	No	25,00 €	2000 g	5935,00 HUF	19,61 €	HU	Hungary	Portugal	PT
+Registered Priority Letter	Yes	100,00 €	50 g	1180,00 HUF	4,30 €	HU	Hungary	Portugal	PT
+Registered Priority Letter	Yes	100,00 €	100 g	1450,00 HUF	5,17 €	HU	Hungary	Portugal	PT
+Registered Priority Letter	Yes	100,00 €	250 g	1925,00 HUF	6,70 €	HU	Hungary	Portugal	PT
+Registered Priority Letter	Yes	100,00 €	500 g	2695,00 HUF	9,18 €	HU	Hungary	Portugal	PT
+Registered Priority Letter	Yes	100,00 €	1000 g	4125,00 HUF	13,78 €	HU	Hungary	Portugal	PT
+Registered Priority Letter	Yes	100,00 €	2000 g	6670,00 HUF	21,98 €	HU	Hungary	Portugal	PT
+Insured Priority Letter (max 100.000 HUF)	Yes	300,00 €	50 g	7745,00 HUF	25,44 €	HU	Hungary	Portugal	PT
+Insured Priority Letter (max 100.000 HUF)	Yes	300,00 €	100 g	8015,00 HUF	26,31 €	HU	Hungary	Portugal	PT
+Insured Priority Letter (max 100.000 HUF)	Yes	300,00 €	250 g	8490,00 HUF	27,84 €	HU	Hungary	Portugal	PT
+Insured Priority Letter (max 100.000 HUF)	Yes	300,00 €	500 g	9260,00 HUF	30,32 €	HU	Hungary	Portugal	PT
+Insured Priority Letter (max 100.000 HUF)	Yes	300,00 €	1000 g	10690,00 HUF	34,93 €	HU	Hungary	Portugal	PT
+Insured Priority Letter (max 100.000 HUF)	Yes	300,00 €	2000 g	13235,00 HUF	43,12 €	HU	Hungary	Portugal	PT
+Insured Priority Letter (max 300.000 HUF)	Yes	1000,00 €	2000 g	27835,00 HUF	90,14 €	HU	Hungary	Portugal	PT
+Europa+ Insured Parcel	Yes	400,00 €	1000 g	13035,00 HUF	42,98 €	HU	Hungary	Portugal	PT
+Europa+ Insured Parcel	Yes	400,00 €	2000 g	13500,00 HUF	44,47 €	HU	Hungary	Portugal	PT
+Europa+ Insured Parcel	Yes	400,00 €	5000 g	17295,00 HUF	56,70 €	HU	Hungary	Portugal	PT
+Europa+ Insured Parcel	Yes	400,00 €	10000 g	24410,00 HUF	79,61 €	HU	Hungary	Portugal	PT
+Europa+ Insured Parcel	Yes	400,00 €	15000 g	34130,00 HUF	110,91 €	HU	Hungary	Portugal	PT
+Europa+ Insured Parcel	Yes	400,00 €	20000 g	45510,00 HUF	147,56 €	HU	Hungary	Portugal	PT
+International Parcel	Yes	100,00 €	10000 g	10440,00 HUF	34,62 €	HU	Hungary	Portugal	PT
+Priority Letter (A)	No	25,00 €	50 g	180,00 ISK	1,58 €	IS	Iceland	Portugal	PT
+Letter	No	25,00 €	100 g	310,00 ISK	2,70 €	IS	Iceland	Portugal	PT
+Letter	No	25,00 €	250 g	600,00 ISK	4,76 €	IS	Iceland	Portugal	PT
+Letter	No	25,00 €	500 g	1055,00 ISK	8,00 €	IS	Iceland	Portugal	PT
+Letter Playmat	No	25,00 €	500 g	1055,00 ISK	8,00 €	IS	Iceland	Portugal	PT
+Letter	No	25,00 €	1000 g	1820,00 ISK	13,43 €	IS	Iceland	Portugal	PT
+Letter	No	25,00 €	1500 g	2480,00 ISK	18,12 €	IS	Iceland	Portugal	PT
+Letter	No	25,00 €	2000 g	2950,00 ISK	21,46 €	IS	Iceland	Portugal	PT
+Registered Letter	Yes	92,00 €	100 g	1280,00 ISK	9,60 €	IS	Iceland	Portugal	PT
+Registered Letter	Yes	92,00 €	500 g	1940,00 ISK	14,29 €	IS	Iceland	Portugal	PT
+Registered Letter Playmat	Yes	92,00 €	500 g	1940,00 ISK	14,29 €	IS	Iceland	Portugal	PT
+Registered Letter	Yes	92,00 €	1000 g	2695,00 ISK	19,65 €	IS	Iceland	Portugal	PT
+Registered Letter	Yes	92,00 €	2000 g	4065,00 ISK	29,39 €	IS	Iceland	Portugal	PT
+Standard Letter (Postamail Int.)	No	25,00 €	20 g	1,00 €	1,30 €	IT	Italy	Portugal	PT
+Priority Letter (Postapriority Int.)	No	25,00 €	50 g	3,50 €	3,80 €	IT	Italy	Portugal	PT
+Priority Letter (Postapriority Int.)	No	25,00 €	100 g	4,30 €	4,80 €	IT	Italy	Portugal	PT
+Priority Letter (Postapriority Int.)	No	25,00 €	250 g	7,30 €	7,80 €	IT	Italy	Portugal	PT
+Priority Letter (Postapriority Int.)	No	25,00 €	350 g	8,50 €	9,00 €	IT	Italy	Portugal	PT
+Priority Letter (Postapriority Int.)	No	25,00 €	350 g	9,50 €	10,00 €	IT	Italy	Portugal	PT
+Priority Letter (Postapriority Int.) *P	No	25,00 €	350 g	9,50 €	10,00 €	IT	Italy	Portugal	PT
+Priority Letter (Postapriority Int.)	No	25,00 €	1000 g	11,00 €	11,50 €	IT	Italy	Portugal	PT
+Priority Letter (Postapriority Int.)	No	25,00 €	2000 g	18,00 €	18,50 €	IT	Italy	Portugal	PT
+Registered Letter (Posta Raccomandata)	Yes	100,00 €	50 g	7,90 €	8,40 €	IT	Italy	Portugal	PT
+Registered Letter (Posta Raccomandata)	Yes	100,00 €	100 g	8,80 €	9,30 €	IT	Italy	Portugal	PT
+Registered Letter (Posta Raccomandata)	Yes	100,00 €	250 g	10,60 €	11,10 €	IT	Italy	Portugal	PT
+Registered Letter (Posta Raccomandata)	Yes	100,00 €	350 g	11,90 €	12,40 €	IT	Italy	Portugal	PT
+Registered Letter (Posta Raccomandata) Playmat	Yes	100,00 €	350 g	11,90 €	12,40 €	IT	Italy	Portugal	PT
+Registered Letter (Posta Raccomandata)	Yes	100,00 €	1000 g	16,15 €	16,65 €	IT	Italy	Portugal	PT
+Registered Letter (Posta Raccomandata)	Yes	100,00 €	2000 g	23,70 €	24,20 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 250€	Yes	250,00 €	50 g	11,90 €	12,40 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 250€	Yes	250,00 €	100 g	12,50 €	13,00 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 250€	Yes	250,00 €	250 g	14,00 €	14,50 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 250€	Yes	250,00 €	350 g	15,00 €	15,50 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 250€	Yes	250,00 €	1000 g	18,50 €	19,00 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 250€	Yes	250,00 €	2000 g	24,50 €	25,00 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 500€	Yes	500,00 €	50 g	14,40 €	14,90 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 500€	Yes	500,00 €	100 g	15,00 €	15,50 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 500€	Yes	500,00 €	250 g	16,50 €	17,00 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 500€	Yes	500,00 €	350 g	17,50 €	18,00 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 500€	Yes	500,00 €	1000 g	21,00 €	21,50 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 500€	Yes	500,00 €	2000 g	27,00 €	27,50 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 1.000€	Yes	1000,00 €	50 g	16,90 €	17,40 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 1.000€	Yes	1000,00 €	100 g	17,50 €	18,00 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 1.000€	Yes	1000,00 €	250 g	19,00 €	19,50 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 1.000€	Yes	1000,00 €	350 g	20,00 €	20,50 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 1.000€	Yes	1000,00 €	1000 g	23,50 €	24,00 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 1.000€	Yes	1000,00 €	2000 g	29,50 €	30,00 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 2.000€	Yes	2000,00 €	50 g	19,40 €	19,90 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 2.000€	Yes	2000,00 €	100 g	20,00 €	20,50 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 2.000€	Yes	2000,00 €	250 g	21,50 €	22,00 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 2.000€	Yes	2000,00 €	350 g	22,50 €	23,00 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 2.000€	Yes	2000,00 €	1000 g	26,00 €	26,50 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 2.000€	Yes	2000,00 €	2000 g	32,00 €	32,50 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 2.500€	Yes	2500,00 €	50 g	21,90 €	22,40 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 2.500€	Yes	2500,00 €	100 g	22,50 €	23,00 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 2.500€	Yes	2500,00 €	250 g	24,00 €	24,50 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 2.500€	Yes	2500,00 €	350 g	25,00 €	25,50 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 2.500€	Yes	2500,00 €	1000 g	28,50 €	29,00 €	IT	Italy	Portugal	PT
+Insured Letter (Posta Assicurata) 2.500€	Yes	2500,00 €	2000 g	34,50 €	35,00 €	IT	Italy	Portugal	PT
+Parcel (Pacco Celere Internazionale)	Yes	100,00 €	1000 g	39,34 €	40,34 €	IT	Italy	Portugal	PT
+Parcel (Pacco Celere Internazionale)	Yes	100,00 €	3000 g	41,18 €	42,18 €	IT	Italy	Portugal	PT
+Parcel (Pacco Celere Internazionale)	Yes	100,00 €	5000 g	50,32 €	51,32 €	IT	Italy	Portugal	PT
+Parcel (Pacco Celere Internazionale)	Yes	100,00 €	10000 g	68,32 €	69,32 €	IT	Italy	Portugal	PT
+Parcel (Pacco Celere Internazionale)	Yes	100,00 €	15000 g	78,08 €	79,08 €	IT	Italy	Portugal	PT
+Parcel (Pacco Celere Internazionale)	Yes	100,00 €	20000 g	96,16 €	97,16 €	IT	Italy	Portugal	PT
+Insured Parcel (Pacco Celere Internazionale Assicurato)	Yes	3500,00 €	1000 g	45,02 €	46,02 €	IT	Italy	Portugal	PT
+Insured Parcel (Pacco Celere Internazionale Assicurato)	Yes	3500,00 €	3000 g	46,86 €	47,86 €	IT	Italy	Portugal	PT
+Insured Parcel (Pacco Celere Internazionale Assicurato)	Yes	3500,00 €	5000 g	56,00 €	57,00 €	IT	Italy	Portugal	PT
+Insured Parcel (Pacco Celere Internazionale Assicurato)	Yes	3500,00 €	10000 g	74,00 €	75,00 €	IT	Italy	Portugal	PT
+Insured Parcel (Pacco Celere Internazionale Assicurato)	Yes	3500,00 €	15000 g	83,76 €	84,76 €	IT	Italy	Portugal	PT
+Insured Parcel (Pacco Celere Internazionale Assicurato)	Yes	3500,00 €	20000 g	101,84 €	102,84 €	IT	Italy	Portugal	PT
+USP Insured Parcel 10.000€ (Flat Fee)	Yes	10000,00 €	5000 g	99,00 €	100,00 €	IT	Italy	Portugal	PT
+Letter	No	25,00 €	50 g	1,20 LVL	2,01 €	LV	Latvia	Portugal	PT
+Letter	No	25,00 €	100 g	1,25 LVL	2,28 €	LV	Latvia	Portugal	PT
+Letter	No	25,00 €	250 g	1,95 LVL	3,27 €	LV	Latvia	Portugal	PT
+Letter	No	25,00 €	500 g	3,40 LVL	5,34 €	LV	Latvia	Portugal	PT
+Letter	No	25,00 €	1000 g	4,30 LVL	6,62 €	LV	Latvia	Portugal	PT
+Letter	No	25,00 €	2000 g	8,10 LVL	12,03 €	LV	Latvia	Portugal	PT
+Registered Letter	Yes	100,00 €	50 g	1,80 LVL	3,06 €	LV	Latvia	Portugal	PT
+Registered Letter	Yes	100,00 €	100 g	1,90 LVL	3,20 €	LV	Latvia	Portugal	PT
+Registered Letter	Yes	100,00 €	250 g	2,10 LVL	3,49 €	LV	Latvia	Portugal	PT
+Registered Letter	Yes	100,00 €	500 g	3,40 LVL	5,34 €	LV	Latvia	Portugal	PT
+Registered Letter	Yes	100,00 €	1000 g	5,00 LVL	7,61 €	LV	Latvia	Portugal	PT
+Registered Letter	Yes	100,00 €	2000 g	8,60 LVL	12,74 €	LV	Latvia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	1000 g	13,10 LVL	19,64 €	LV	Latvia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	2000 g	15,80 LVL	23,48 €	LV	Latvia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	5000 g	23,75 LVL	34,79 €	LV	Latvia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	10000 g	37,10 LVL	53,79 €	LV	Latvia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	15000 g	50,50 LVL	72,86 €	LV	Latvia	Portugal	PT
+Registered Parcel	Yes	1000,00 €	20000 g	63,80 LVL	91,78 €	LV	Latvia	Portugal	PT
+Priority Letter (Standardbrief Priority)	No	25,00 €	20 g	1,50 CHF	1,67 €	LI	Liechtenstein	Portugal	PT
+Priority Letter (Standardbrief Priority)	No	25,00 €	50 g	2,60 CHF	2,67 €	LI	Liechtenstein	Portugal	PT
+Priority Letter (Grossbrief Priority)	No	25,00 €	100 g	4,30 CHF	4,43 €	LI	Liechtenstein	Portugal	PT
+Priority Letter (Grossbrief Priority)	No	25,00 €	250 g	7,00 CHF	6,89 €	LI	Liechtenstein	Portugal	PT
+Priority Letter (Grossbrief Priority)	No	25,00 €	500 g	12,00 CHF	11,45 €	LI	Liechtenstein	Portugal	PT
+Priority Letter (Grossbrief Priority)	No	25,00 €	1000 g	17,00 CHF	16,02 €	LI	Liechtenstein	Portugal	PT
+Registered Letter (Standardbrief Priority + Einschreiben)	Yes	360,00 €	20 g	7,50 CHF	7,35 €	LI	Liechtenstein	Portugal	PT
+Registered Letter (Standardbrief Priority + Einschreiben)	Yes	360,00 €	50 g	8,60 CHF	8,35 €	LI	Liechtenstein	Portugal	PT
+Registered Letter (Grossbrief Priority + Einschreiben)	Yes	360,00 €	100 g	10,30 CHF	9,90 €	LI	Liechtenstein	Portugal	PT
+Registered Letter (Grossbrief Priority + Einschreiben)	Yes	360,00 €	250 g	13,00 CHF	12,37 €	LI	Liechtenstein	Portugal	PT
+Registered Letter (Grossbrief Priority + Einschreiben)	Yes	360,00 €	500 g	18,00 CHF	16,93 €	LI	Liechtenstein	Portugal	PT
+Registered Letter (Grossbrief Priority + Einschreiben)	Yes	360,00 €	1000 g	23,00 CHF	21,50 €	LI	Liechtenstein	Portugal	PT
+Insured Parcel (PostPac Priority)	Yes	1500,00 €	2000 g	41,00 CHF	38,43 €	LI	Liechtenstein	Portugal	PT
+Insured Parcel (PostPac Priority)	Yes	1500,00 €	5000 g	51,00 CHF	47,56 €	LI	Liechtenstein	Portugal	PT
+Insured Parcel (PostPac Priority)	Yes	1500,00 €	10000 g	59,00 CHF	54,86 €	LI	Liechtenstein	Portugal	PT
+Insured Parcel (PostPac Priority)	Yes	1500,00 €	15000 g	70,00 CHF	64,90 €	LI	Liechtenstein	Portugal	PT
+Insured Parcel (PostPac Priority)	Yes	1500,00 €	20000 g	75,00 CHF	69,47 €	LI	Liechtenstein	Portugal	PT
+Priority Letter (Small)	No	25,00 €	20 g	2,80 LTL	1,11 €	LT	Lithuania	Portugal	PT
+Priority Letter (Small)	No	25,00 €	50 g	3,45 LTL	1,30 €	LT	Lithuania	Portugal	PT
+Priority Letter (Small)	No	25,00 €	100 g	4,45 LTL	1,79 €	LT	Lithuania	Portugal	PT
+Priority Letter (Large) Playmat	No	25,00 €	500 g	10,10 LTL	3,43 €	LT	Lithuania	Portugal	PT
+Priority Letter (Large) 	No	25,00 €	500 g	10,10 LTL	3,43 €	LT	Lithuania	Portugal	PT
+Priority Letter (Small)	No	25,00 €	500 g	8,20 LTL	2,87 €	LT	Lithuania	Portugal	PT
+Priority Letter (Large)	No	25,00 €	1000 g	18,00 LTL	5,71 €	LT	Lithuania	Portugal	PT
+Priority Letter (Large)	No	25,00 €	2000 g	26,00 LTL	8,03 €	LT	Lithuania	Portugal	PT
+Registered Priority Letter (Small)	Yes	50,00 €	20 g	9,80 LTL	3,34 €	LT	Lithuania	Portugal	PT
+Registered Priority Letter (Small)	Yes	50,00 €	50 g	10,45 LTL	3,53 €	LT	Lithuania	Portugal	PT
+Registered Priority Letter (Small)	Yes	50,00 €	100 g	11,45 LTL	3,82 €	LT	Lithuania	Portugal	PT
+Registered Priority Letter (Small)	Yes	50,00 €	500 g	15,20 LTL	4,90 €	LT	Lithuania	Portugal	PT
+Registered Priority Letter (Large) Playmat	Yes	50,00 €	500 g	17,10 LTL	5,45 €	LT	Lithuania	Portugal	PT
+Registered Priority Letter (Large) 	Yes	50,00 €	500 g	17,10 LTL	5,45 €	LT	Lithuania	Portugal	PT
+Registered Priority Letter (Large)	Yes	50,00 €	1000 g	25,00 LTL	7,74 €	LT	Lithuania	Portugal	PT
+Registered Priority Letter (Large)	Yes	50,00 €	2000 g	33,00 LTL	10,06 €	LT	Lithuania	Portugal	PT
+Insured Priority Letter (Small) – Standard Cover	Yes	200,00 €	20 g	14,80 LTL	4,79 €	LT	Lithuania	Portugal	PT
+Insured Priority Letter (Small) – Standard Cover	Yes	200,00 €	50 g	15,45 LTL	4,97 €	LT	Lithuania	Portugal	PT
+Insured Priority Letter (Small) – Standard Cover	Yes	200,00 €	100 g	16,45 LTL	5,26 €	LT	Lithuania	Portugal	PT
+Insured Priority Letter (Large) – Standard Cover	Yes	200,00 €	500 g	20,20 LTL	6,35 €	LT	Lithuania	Portugal	PT
+Insured Priority Letter (Large) – Standard Cover	Yes	200,00 €	1000 g	30,00 LTL	9,19 €	LT	Lithuania	Portugal	PT
+Insured Priority Letter (Large) – Standard Cover	Yes	200,00 €	2000 g	38,00 LTL	11,51 €	LT	Lithuania	Portugal	PT
+Insured Priority Letter (Small) – Premium Cover	Yes	5000,00 €	20 g	24,80 LTL	7,68 €	LT	Lithuania	Portugal	PT
+Insured Priority Letter (Small) – Premium Cover	Yes	5000,00 €	50 g	25,45 LTL	7,87 €	LT	Lithuania	Portugal	PT
+Insured Priority Letter (Small) – Premium Cover	Yes	5000,00 €	100 g	26,45 LTL	8,16 €	LT	Lithuania	Portugal	PT
+Insured Priority Letter (Large) – Premium Cover	Yes	5000,00 €	500 g	30,20 LTL	9,25 €	LT	Lithuania	Portugal	PT
+Insured Priority Letter (Large) – Premium Cover	Yes	5000,00 €	1000 g	40,00 LTL	12,08 €	LT	Lithuania	Portugal	PT
+Insured Priority Letter (Large) – Premium Cover	Yes	5000,00 €	2000 g	48,00 LTL	14,40 €	LT	Lithuania	Portugal	PT
+Insured Parcel	Yes	500,00 €	2000 g	67,24 LTL	20,47 €	LT	Lithuania	Portugal	PT
+Insured Parcel	Yes	500,00 €	5000 g	84,97 LTL	25,61 €	LT	Lithuania	Portugal	PT
+Insured Parcel	Yes	500,00 €	10000 g	114,52 LTL	34,17 €	LT	Lithuania	Portugal	PT
+Priority Letter (Lettre)	No	25,00 €	50 g	0,85 €	1,15 €	LU	Luxembourg	Portugal	PT
+Priority Letter (Lettre)	No	25,00 €	100 g	1,70 €	2,20 €	LU	Luxembourg	Portugal	PT
+Priority Letter (Lettre)	No	25,00 €	250 g	2,70 €	3,20 €	LU	Luxembourg	Portugal	PT
+Priority Letter (Lettre)	No	25,00 €	500 g	4,20 €	4,70 €	LU	Luxembourg	Portugal	PT
+Priority Letter (Lettre)	No	25,00 €	1000 g	8,00 €	8,50 €	LU	Luxembourg	Portugal	PT
+Priority Letter (Lettre)	No	25,00 €	2000 g	12,00 €	12,50 €	LU	Luxembourg	Portugal	PT
+Registered Letter (Lettre Recommandée)	Yes	200,00 €	50 g	4,85 €	5,35 €	LU	Luxembourg	Portugal	PT
+Registered Letter (Lettre Recommandée)	Yes	200,00 €	100 g	5,70 €	6,20 €	LU	Luxembourg	Portugal	PT
+Registered Letter (Lettre Recommandée)	Yes	200,00 €	250 g	6,70 €	7,20 €	LU	Luxembourg	Portugal	PT
+Registered Letter (Lettre Recommandée)	Yes	200,00 €	500 g	8,20 €	8,70 €	LU	Luxembourg	Portugal	PT
+Registered Letter (Lettre Recommandée)	Yes	200,00 €	1000 g	12,00 €	12,50 €	LU	Luxembourg	Portugal	PT
+Registered Letter (Lettre Recommandée)	Yes	200,00 €	2000 g	16,00 €	16,50 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 1.250)	Yes	1250,00 €	100 g	10,30 €	10,80 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 1.250)	Yes	1250,00 €	250 g	11,30 €	11,80 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 1.250)	Yes	1250,00 €	500 g	12,80 €	13,30 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 1.250)	Yes	1250,00 €	1000 g	16,60 €	17,10 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 1.250)	Yes	1250,00 €	2000 g	20,60 €	21,10 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 2.500)	Yes	2500,00 €	100 g	14,90 €	15,40 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 2.500)	Yes	2500,00 €	250 g	15,90 €	16,40 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 2.500)	Yes	2500,00 €	500 g	17,40 €	17,90 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 2.500)	Yes	2500,00 €	1000 g	21,20 €	21,70 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 2.500)	Yes	2500,00 €	2000 g	25,20 €	25,70 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 3.750)	Yes	3750,00 €	100 g	19,50 €	20,00 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 3.750)	Yes	3750,00 €	250 g	20,50 €	21,00 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 3.750)	Yes	3750,00 €	500 g	22,00 €	22,50 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 3.750)	Yes	3750,00 €	1000 g	25,80 €	26,30 €	LU	Luxembourg	Portugal	PT
+Insured Letter (Assurance+ 3.750)	Yes	3750,00 €	2000 g	29,80 €	30,30 €	LU	Luxembourg	Portugal	PT
+Registered Parcel (Quality Pack)	Yes	1060,00 €	2000 g	24,00 €	25,00 €	LU	Luxembourg	Portugal	PT
+Registered Parcel (Quality Pack)	Yes	1060,00 €	5000 g	32,00 €	33,00 €	LU	Luxembourg	Portugal	PT
+Registered Parcel (Quality Pack)	Yes	1060,00 €	10000 g	42,00 €	43,00 €	LU	Luxembourg	Portugal	PT
+Registered Parcel (Quality Pack)	Yes	1060,00 €	20000 g	60,00 €	61,00 €	LU	Luxembourg	Portugal	PT
+Letter	No	25,00 €	20 g	0,30 €	0,60 €	MT	Malta	Portugal	PT
+Letter	No	25,00 €	60 g	0,90 €	1,40 €	MT	Malta	Portugal	PT
+Letter	No	25,00 €	100 g	1,50 €	2,00 €	MT	Malta	Portugal	PT
+Letter	No	25,00 €	200 g	3,00 €	3,50 €	MT	Malta	Portugal	PT
+Letter	No	25,00 €	500 g	7,50 €	8,00 €	MT	Malta	Portugal	PT
+Letter	No	25,00 €	1000 g	15,00 €	15,50 €	MT	Malta	Portugal	PT
+Letter	No	25,00 €	2000 g	30,00 €	30,50 €	MT	Malta	Portugal	PT
+Registered Letter	Yes	140,00 €	20 g	3,30 €	3,80 €	MT	Malta	Portugal	PT
+Registered Letter	Yes	140,00 €	60 g	3,90 €	4,40 €	MT	Malta	Portugal	PT
+Registered Letter	Yes	140,00 €	100 g	4,50 €	5,00 €	MT	Malta	Portugal	PT
+Registered Letter	Yes	140,00 €	200 g	6,00 €	6,50 €	MT	Malta	Portugal	PT
+Registered Letter	Yes	140,00 €	500 g	10,50 €	11,00 €	MT	Malta	Portugal	PT
+Registered Letter	Yes	140,00 €	1000 g	18,00 €	18,50 €	MT	Malta	Portugal	PT
+Registered Letter	Yes	140,00 €	2000 g	33,00 €	33,50 €	MT	Malta	Portugal	PT
+Registered Parcel	Yes	500,00 €	2000 g	24,32 €	25,32 €	MT	Malta	Portugal	PT
+Registered Parcel	Yes	500,00 €	5000 g	30,90 €	31,90 €	MT	Malta	Portugal	PT
+Registered Parcel	Yes	500,00 €	10000 g	40,30 €	41,30 €	MT	Malta	Portugal	PT
+Registered Parcel	Yes	500,00 €	20000 g	59,10 €	60,10 €	MT	Malta	Portugal	PT
+A-Priority Letter (1)	No	25,00 €	20 g	14,00 NOK	1,78 €	NO	Norway	Portugal	PT
+A-Priority Letter (1)	No	25,00 €	50 g	22,00 NOK	2,62 €	NO	Norway	Portugal	PT
+A-Priority Letter (1)	No	25,00 €	100 g	27,00 NOK	3,35 €	NO	Norway	Portugal	PT
+A-Priority Letter (2)	No	25,00 €	350 g	50,00 NOK	5,77 €	NO	Norway	Portugal	PT
+A-Priority Letter (3) Playmat	No	25,00 €	350 g	90,00 NOK	9,99 €	NO	Norway	Portugal	PT
+A-Priority Letter (3)	No	25,00 €	350 g	90,00 NOK	9,99 €	NO	Norway	Portugal	PT
+A-Priority Letter (1)	No	25,00 €	350 g	43,00 NOK	5,04 €	NO	Norway	Portugal	PT
+A-Priority Letter (3)	No	25,00 €	1000 g	135,00 NOK	14,74 €	NO	Norway	Portugal	PT
+A-Priority Letter (2)	No	25,00 €	1000 g	100,00 NOK	11,05 €	NO	Norway	Portugal	PT
+A-Priority Letter (1)	No	25,00 €	1000 g	85,00 NOK	9,47 €	NO	Norway	Portugal	PT
+A-Priority Letter (1)	No	25,00 €	2000 g	130,00 NOK	14,21 €	NO	Norway	Portugal	PT
+A-Priority Letter (3)	No	25,00 €	2000 g	190,00 NOK	20,54 €	NO	Norway	Portugal	PT
+A-Priority Letter (2)	No	25,00 €	2000 g	145,00 NOK	15,80 €	NO	Norway	Portugal	PT
+Registered Letter (Maxi)	Yes	240,00 €	2000 g	365,00 NOK	39,00 €	NO	Norway	Portugal	PT
+Registered Letter (Maxi) Playmat	Yes	240,00 €	2000 g	365,00 NOK	39,00 €	NO	Norway	Portugal	PT
+Registered Letter (Large)	Yes	240,00 €	2000 g	215,00 NOK	23,18 €	NO	Norway	Portugal	PT
+Registered Letter (Small)	Yes	240,00 €	2000 g	162,00 NOK	17,59 €	NO	Norway	Portugal	PT
+Parcel	Yes	500,00 €	5000 g	394,00 NOK	42,56 €	NO	Norway	Portugal	PT
+Parcel	Yes	500,00 €	10000 g	499,00 NOK	53,64 €	NO	Norway	Portugal	PT
+Parcel	Yes	500,00 €	15000 g	604,00 NOK	64,71 €	NO	Norway	Portugal	PT
+Parcel	Yes	500,00 €	20000 g	709,00 NOK	75,79 €	NO	Norway	Portugal	PT
+Priority Letter	No	25,00 €	50 g	6,00 PLN	1,70 €	PL	Poland	Portugal	PT
+Priority Letter	No	25,00 €	100 g	11,50 PLN	3,18 €	PL	Poland	Portugal	PT
+Priority Letter	No	25,00 €	350 g	13,00 PLN	3,53 €	PL	Poland	Portugal	PT
+Priority Letter Playmat	No	25,00 €	500 g	15,30 PLN	4,07 €	PL	Poland	Portugal	PT
+Priority Letter	No	25,00 €	500 g	15,30 PLN	4,07 €	PL	Poland	Portugal	PT
+Priority Letter	No	25,00 €	1000 g	29,30 PLN	7,33 €	PL	Poland	Portugal	PT
+Priority Letter	No	25,00 €	2000 g	58,90 PLN	14,23 €	PL	Poland	Portugal	PT
+Registered Priority Letter	Yes	140,00 €	50 g	16,00 PLN	4,23 €	PL	Poland	Portugal	PT
+Registered Priority Letter	Yes	140,00 €	100 g	17,00 PLN	4,46 €	PL	Poland	Portugal	PT
+Registered Priority Letter	Yes	140,00 €	350 g	18,30 PLN	4,77 €	PL	Poland	Portugal	PT
+Registered Priority Letter Playmat	Yes	140,00 €	500 g	20,60 PLN	5,30 €	PL	Poland	Portugal	PT
+Registered Priority Letter	Yes	140,00 €	500 g	20,60 PLN	5,30 €	PL	Poland	Portugal	PT
+Registered Priority Letter	Yes	140,00 €	1000 g	34,60 PLN	8,57 €	PL	Poland	Portugal	PT
+Registered Priority Letter	Yes	140,00 €	2000 g	64,20 PLN	15,47 €	PL	Poland	Portugal	PT
+Registered Valuable Letter (800 zl)	Yes	200,00 €	50 g	32,00 PLN	7,96 €	PL	Poland	Portugal	PT
+Registered Valuable Letter (800 zl)	Yes	200,00 €	100 g	33,00 PLN	8,19 €	PL	Poland	Portugal	PT
+Registered Valuable Letter (800 zl)	Yes	200,00 €	350 g	34,30 PLN	8,50 €	PL	Poland	Portugal	PT
+Registered Valuable Letter (800 zl)	Yes	200,00 €	500 g	36,60 PLN	9,03 €	PL	Poland	Portugal	PT
+Registered Valuable Letter (800 zl)	Yes	200,00 €	1000 g	50,60 PLN	12,30 €	PL	Poland	Portugal	PT
+Registered Valuable Letter (800 zl)	Yes	200,00 €	2000 g	80,20 PLN	19,20 €	PL	Poland	Portugal	PT
+Registered Valuable Letter (2.000 zl)	Yes	500,00 €	50 g	56,00 PLN	13,56 €	PL	Poland	Portugal	PT
+Registered Valuable Letter (2.000 zl)	Yes	500,00 €	100 g	57,00 PLN	13,79 €	PL	Poland	Portugal	PT
+Registered Valuable Letter (2.000 zl)	Yes	500,00 €	350 g	58,30 PLN	14,09 €	PL	Poland	Portugal	PT
+Registered Valuable Letter (2.000 zl)	Yes	500,00 €	500 g	60,60 PLN	14,63 €	PL	Poland	Portugal	PT
+Registered Valuable Letter (2.000 zl)	Yes	500,00 €	1000 g	74,60 PLN	17,89 €	PL	Poland	Portugal	PT
+Registered Valuable Letter (2.000 zl)	Yes	500,00 €	2000 g	104,20 PLN	24,80 €	PL	Poland	Portugal	PT
+Registered Valuable Letter (4.000 zl)	Yes	1000,00 €	2000 g	144,20 PLN	34,12 €	PL	Poland	Portugal	PT
+Parcel	Yes	90,00 €	1000 g	70,00 PLN	17,32 €	PL	Poland	Portugal	PT
+Priority Parcel	Yes	200,00 €	1000 g	70,00 PLN	17,32 €	PL	Poland	Portugal	PT
+Priority Parcel	Yes	200,00 €	2000 g	82,00 PLN	20,12 €	PL	Poland	Portugal	PT
+Priority Parcel	Yes	200,00 €	3000 g	98,00 PLN	23,85 €	PL	Poland	Portugal	PT
+Priority Parcel	Yes	200,00 €	4000 g	102,00 PLN	24,78 €	PL	Poland	Portugal	PT
+Priority Parcel	Yes	200,00 €	5000 g	114,00 PLN	27,58 €	PL	Poland	Portugal	PT
+Priority Parcel	Yes	200,00 €	10000 g	145,00 PLN	34,81 €	PL	Poland	Portugal	PT
+Priority Parcel	Yes	200,00 €	15000 g	179,00 PLN	42,74 €	PL	Poland	Portugal	PT
+Priority Parcel	Yes	200,00 €	20000 g	221,00 PLN	52,53 €	PL	Poland	Portugal	PT
+Parcel	Yes	130,00 €	5000 g	114,00 PLN	27,58 €	PL	Poland	Portugal	PT
+Parcel	Yes	160,00 €	10000 g	145,00 PLN	34,81 €	PL	Poland	Portugal	PT
+Parcel	Yes	200,00 €	15000 g	194,00 PLN	46,23 €	PL	Poland	Portugal	PT
+Parcel	Yes	240,00 €	20000 g	249,00 PLN	59,06 €	PL	Poland	Portugal	PT
+Insured Parcel (2000zl)	Yes	2000,00 €	1000 g	110,00 PLN	26,65 €	PL	Poland	Portugal	PT
+Insured Parcel (2000zl)	Yes	2000,00 €	5000 g	154,00 PLN	36,91 €	PL	Poland	Portugal	PT
+Insured Parcel (2000zl)	Yes	2000,00 €	10000 g	185,00 PLN	44,13 €	PL	Poland	Portugal	PT
+Insured Parcel (2000zl)	Yes	2000,00 €	15000 g	234,00 PLN	55,56 €	PL	Poland	Portugal	PT
+Insured Parcel (2000zl)	Yes	2000,00 €	20000 g	289,00 PLN	68,38 €	PL	Poland	Portugal	PT
+Insured Parcel (4000zl)	Yes	4000,00 €	1000 g	150,00 PLN	35,97 €	PL	Poland	Portugal	PT
+Insured Parcel (4000zl)	Yes	4000,00 €	5000 g	194,00 PLN	46,23 €	PL	Poland	Portugal	PT
+Insured Parcel (4000zl)	Yes	4000,00 €	10000 g	225,00 PLN	53,46 €	PL	Poland	Portugal	PT
+Insured Parcel (4000zl)	Yes	4000,00 €	15000 g	274,00 PLN	64,89 €	PL	Poland	Portugal	PT
+Insured Parcel (4000zl)	Yes	4000,00 €	20000 g	329,00 PLN	77,71 €	PL	Poland	Portugal	PT
+Insured EMS Parcel (20.000 zl)	Yes	5000,00 €	1000 g	156,00 PLN	37,37 €	PL	Poland	Portugal	PT
+Insured EMS Parcel (20.000 zl)	Yes	5000,00 €	3000 g	187,00 PLN	44,60 €	PL	Poland	Portugal	PT
+Insured EMS Parcel (20.000 zl)	Yes	5000,00 €	5000 g	200,00 PLN	47,63 €	PL	Poland	Portugal	PT
+Insured EMS Parcel (20.000 zl)	Yes	5000,00 €	10000 g	248,00 PLN	58,82 €	PL	Poland	Portugal	PT
+Insured EMS Parcel (20.000 zl)	Yes	5000,00 €	15000 g	310,00 PLN	73,28 €	PL	Poland	Portugal	PT
+Insured EMS Parcel (20.000 zl)	Yes	5000,00 €	20000 g	402,00 PLN	94,73 €	PL	Poland	Portugal	PT
+Priority Letter	No	25,00 €	20 g	4,00 RON	1,19 €	RO	Romania	Portugal	PT
+Priority Letter	No	25,00 €	50 g	4,50 RON	1,31 €	RO	Romania	Portugal	PT
+Priority Letter	No	25,00 €	100 g	8,00 RON	2,29 €	RO	Romania	Portugal	PT
+Priority Letter	No	25,00 €	250 g	15,50 RON	3,97 €	RO	Romania	Portugal	PT
+Priority Letter	No	25,00 €	500 g	31,50 RON	7,54 €	RO	Romania	Portugal	PT
+Priority Letter	No	25,00 €	1000 g	60,50 RON	14,03 €	RO	Romania	Portugal	PT
+Priority Letter	No	25,00 €	2000 g	119,00 RON	27,11 €	RO	Romania	Portugal	PT
+Registered Letter 	Yes	175,00 €	20 g	16,00 RON	4,08 €	RO	Romania	Portugal	PT
+Registered Letter 	Yes	175,00 €	50 g	16,50 RON	4,19 €	RO	Romania	Portugal	PT
+Registered Letter 	Yes	175,00 €	100 g	20,00 RON	4,97 €	RO	Romania	Portugal	PT
+Registered Letter 	Yes	175,00 €	250 g	27,50 RON	6,65 €	RO	Romania	Portugal	PT
+Registered Letter 	Yes	175,00 €	500 g	43,50 RON	10,23 €	RO	Romania	Portugal	PT
+Registered Letter 	Yes	175,00 €	1000 g	72,50 RON	16,71 €	RO	Romania	Portugal	PT
+Registered Letter 	Yes	175,00 €	2000 g	131,00 RON	29,79 €	RO	Romania	Portugal	PT
+Int'l Priority Parcel	Yes	1000,00 €	1000 g	55,00 RON	13,30 €	RO	Romania	Portugal	PT
+Int'l Priority Parcel	Yes	1000,00 €	2000 g	70,00 RON	16,65 €	RO	Romania	Portugal	PT
+Int'l Priority Parcel	Yes	1000,00 €	5000 g	115,00 RON	26,72 €	RO	Romania	Portugal	PT
+Int'l Priority Parcel	Yes	1000,00 €	10000 g	190,00 RON	43,49 €	RO	Romania	Portugal	PT
+1st Class Letter	No	25,00 €	50 g	1,00 €	1,30 €	SK	Slovakia	Portugal	PT
+1st Class Letter	No	25,00 €	100 g	1,60 €	2,10 €	SK	Slovakia	Portugal	PT
+1st Class Letter	No	25,00 €	500 g	4,20 €	4,70 €	SK	Slovakia	Portugal	PT
+1st Class Letter	No	25,00 €	1000 g	7,50 €	8,00 €	SK	Slovakia	Portugal	PT
+1st Class Letter	No	25,00 €	2000 g	13,00 €	13,50 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 100€)	Yes	100,00 €	50 g	2,80 €	3,30 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 100€)	Yes	100,00 €	100 g	3,40 €	3,90 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 100€)	Yes	100,00 €	500 g	6,00 €	6,50 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 100€)	Yes	100,00 €	1000 g	9,30 €	9,80 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 100€)	Yes	100,00 €	2000 g	14,80 €	15,30 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 500€)	Yes	500,00 €	50 g	4,80 €	5,30 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 500€)	Yes	500,00 €	100 g	5,40 €	5,90 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 500€)	Yes	500,00 €	500 g	8,00 €	8,50 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 500€)	Yes	500,00 €	1000 g	11,30 €	11,80 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 500€)	Yes	500,00 €	2000 g	16,80 €	17,30 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 1000€)	Yes	1000,00 €	50 g	7,30 €	7,80 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 1000€)	Yes	1000,00 €	100 g	7,90 €	8,40 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 1000€)	Yes	1000,00 €	500 g	10,50 €	11,00 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 1000€)	Yes	1000,00 €	1000 g	13,80 €	14,30 €	SK	Slovakia	Portugal	PT
+1st Class Letter (Insurance 1000€)	Yes	1000,00 €	2000 g	19,30 €	19,80 €	SK	Slovakia	Portugal	PT
+1st Class Parcel (Insurance 500€)	Yes	500,00 €	2000 g	21,50 €	22,50 €	SK	Slovakia	Portugal	PT
+1st Class Parcel (Insurance 500€)	Yes	500,00 €	5000 g	28,50 €	29,50 €	SK	Slovakia	Portugal	PT
+1st Class Parcel (Insurance 500€)	Yes	500,00 €	10000 g	41,00 €	42,00 €	SK	Slovakia	Portugal	PT
+1st Class Parcel (Insurance 1000€)	Yes	1000,00 €	2000 g	24,00 €	25,00 €	SK	Slovakia	Portugal	PT
+1st Class Parcel (Insurance 1000€)	Yes	1000,00 €	5000 g	31,00 €	32,00 €	SK	Slovakia	Portugal	PT
+1st Class Parcel (Insurance 1000€)	Yes	1000,00 €	10000 g	43,50 €	44,50 €	SK	Slovakia	Portugal	PT
+Priority Letter	No	25,00 €	20 g	1,34 €	1,64 €	SI	Slovenia	Portugal	PT
+Priority Letter	No	25,00 €	100 g	1,74 €	2,24 €	SI	Slovenia	Portugal	PT
+Priority Letter	No	25,00 €	250 g	3,22 €	3,72 €	SI	Slovenia	Portugal	PT
+Priority Letter	No	25,00 €	500 g	5,39 €	5,89 €	SI	Slovenia	Portugal	PT
+Priority Letter	No	25,00 €	1000 g	8,54 €	9,04 €	SI	Slovenia	Portugal	PT
+Priority Letter	No	25,00 €	2000 g	14,05 €	14,55 €	SI	Slovenia	Portugal	PT
+Registered Priority Letter	Yes	150,00 €	20 g	3,60 €	4,10 €	SI	Slovenia	Portugal	PT
+Registered Priority Letter	Yes	150,00 €	100 g	4,00 €	4,50 €	SI	Slovenia	Portugal	PT
+Registered Priority Letter	Yes	150,00 €	250 g	5,22 €	5,72 €	SI	Slovenia	Portugal	PT
+Registered Priority Letter	Yes	150,00 €	500 g	6,99 €	7,49 €	SI	Slovenia	Portugal	PT
+Registered Priority Letter	Yes	150,00 €	1000 g	9,77 €	10,27 €	SI	Slovenia	Portugal	PT
+Registered Priority Letter	Yes	150,00 €	2000 g	14,29 €	14,79 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (2 extra DTS65)	Yes	225,00 €	100 g	6,08 €	6,58 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (2 extra DTS65)	Yes	225,00 €	250 g	7,30 €	7,80 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (2 extra DTS65)	Yes	225,00 €	500 g	9,07 €	9,57 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (2 extra DTS65)	Yes	225,00 €	1000 g	11,85 €	12,35 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (2 extra DTS65)	Yes	225,00 €	2000 g	16,37 €	16,87 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (5 extra DTS65)	Yes	450,00 €	100 g	9,20 €	9,70 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (5 extra DTS65)	Yes	450,00 €	250 g	10,42 €	10,92 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (5 extra DTS65)	Yes	450,00 €	500 g	12,19 €	12,69 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (5 extra DTS65)	Yes	450,00 €	1000 g	14,97 €	15,47 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (5 extra DTS65)	Yes	450,00 €	2000 g	19,49 €	19,99 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (13 extra DTS65)	Yes	1050,00 €	100 g	17,52 €	18,02 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (13 extra DTS65)	Yes	1050,00 €	250 g	18,74 €	19,24 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (13 extra DTS65)	Yes	1050,00 €	500 g	20,51 €	21,01 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (13 extra DTS65)	Yes	1050,00 €	1000 g	23,29 €	23,79 €	SI	Slovenia	Portugal	PT
+Insured Priority Letter (13 extra DTS65)	Yes	1050,00 €	2000 g	27,81 €	28,31 €	SI	Slovenia	Portugal	PT
+Insured Parcel	Yes	150,00 €	2000 g	16,68 €	17,68 €	SI	Slovenia	Portugal	PT
+Insured Parcel	Yes	150,00 €	5000 g	24,99 €	25,99 €	SI	Slovenia	Portugal	PT
+Insured Parcel	Yes	150,00 €	10000 g	30,50 €	31,50 €	SI	Slovenia	Portugal	PT
+Insured Parcel	Yes	150,00 €	20000 g	41,67 €	42,67 €	SI	Slovenia	Portugal	PT
+Insured Parcel (5 extra DTS65)	Yes	450,00 €	2000 g	21,88 €	22,88 €	SI	Slovenia	Portugal	PT
+Insured Parcel (5 extra DTS65)	Yes	450,00 €	5000 g	30,19 €	31,19 €	SI	Slovenia	Portugal	PT
+Insured Parcel (5 extra DTS65)	Yes	450,00 €	10000 g	35,70 €	36,70 €	SI	Slovenia	Portugal	PT
+Insured Parcel (5 extra DTS65)	Yes	450,00 €	20000 g	46,87 €	47,87 €	SI	Slovenia	Portugal	PT
+Insured Parcel (13 extra DTS65)	Yes	1050,00 €	2000 g	30,20 €	31,20 €	SI	Slovenia	Portugal	PT
+Insured Parcel (13 extra DTS65)	Yes	1050,00 €	5000 g	38,51 €	39,51 €	SI	Slovenia	Portugal	PT
+Insured Parcel (13 extra DTS65)	Yes	1050,00 €	10000 g	44,02 €	45,02 €	SI	Slovenia	Portugal	PT
+Insured Parcel (13 extra DTS65)	Yes	1050,00 €	20000 g	55,19 €	56,19 €	SI	Slovenia	Portugal	PT
+UPS Standard 5.000€ Insurance (Flat Fee)	Yes	5000,00 €	5000 g	99,00 €	100,00 €	SI	Slovenia	Portugal	PT
+Priority Letter (Carta ordinaria)	No	25,00 €	50 g	1,55 €	1,85 €	ES	Spain	Portugal	PT
+Priority Letter (Carta ordinaria)	No	25,00 €	100 g	2,25 €	2,75 €	ES	Spain	Portugal	PT
+Priority Letter (Carta ordinaria)	No	25,00 €	500 g	6,30 €	6,80 €	ES	Spain	Portugal	PT
+Priority Letter (Carta ordinaria) Playmat	No	25,00 €	500 g	6,30 €	6,80 €	ES	Spain	Portugal	PT
+Priority Letter (Carta ordinaria)	No	25,00 €	1000 g	12,60 €	13,10 €	ES	Spain	Portugal	PT
+Priority Letter (Carta ordinaria)	No	25,00 €	2000 g	20,20 €	20,70 €	ES	Spain	Portugal	PT
+Registered Letter (Carta certificada)	Yes	200,00 €	50 g	4,40 €	4,90 €	ES	Spain	Portugal	PT
+Registered Letter (Carta certificada)	Yes	200,00 €	100 g	5,10 €	5,60 €	ES	Spain	Portugal	PT
+Registered Letter (Carta certificada) Playmat	Yes	200,00 €	500 g	9,15 €	9,65 €	ES	Spain	Portugal	PT
+Registered Letter (Carta certificada)	Yes	200,00 €	500 g	9,15 €	9,65 €	ES	Spain	Portugal	PT
+Registered Parcel (Paquete prioritario)	Yes	225,00 €	1000 g	30,56 €	31,56 €	ES	Spain	Portugal	PT
+Registered Parcel (Paquete prioritario)	Yes	225,00 €	2000 g	33,80 €	34,80 €	ES	Spain	Portugal	PT
+Registered Parcel (Paquete prioritario)	Yes	225,00 €	5000 g	43,52 €	44,52 €	ES	Spain	Portugal	PT
+Registered Parcel (Paquete prioritario)	Yes	225,00 €	10000 g	59,72 €	60,72 €	ES	Spain	Portugal	PT
+Registered Parcel (Paquete prioritario)	Yes	225,00 €	15000 g	75,92 €	76,92 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 500€))	Yes	500,00 €	250 g	33,86 €	34,86 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 500€))	Yes	500,00 €	500 g	42,70 €	43,70 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 500€))	Yes	500,00 €	1000 g	49,26 €	50,26 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (500€))	Yes	500,00 €	1000 g	35,56 €	36,56 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 500€))	Yes	500,00 €	2000 g	52,04 €	53,04 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (500€))	Yes	500,00 €	2000 g	38,80 €	39,80 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 500€))	Yes	500,00 €	5000 g	60,38 €	61,38 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (500€))	Yes	500,00 €	5000 g	48,52 €	49,52 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 500€))	Yes	500,00 €	10000 g	74,28 €	75,28 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (500€))	Yes	500,00 €	10000 g	64,72 €	65,72 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (500€))	Yes	500,00 €	15000 g	80,92 €	81,92 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 1.000€))	Yes	1000,00 €	250 g	38,86 €	39,86 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 1.000€))	Yes	1000,00 €	500 g	47,70 €	48,70 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 1.000€))	Yes	1000,00 €	1000 g	54,26 €	55,26 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (1000€))	Yes	1000,00 €	1000 g	40,56 €	41,56 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 1.000€))	Yes	1000,00 €	2000 g	57,04 €	58,04 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (1000€))	Yes	1000,00 €	2000 g	43,80 €	44,80 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 1.000€))	Yes	1000,00 €	5000 g	65,38 €	66,38 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (1000€))	Yes	1000,00 €	5000 g	53,52 €	54,52 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 1.000€))	Yes	1000,00 €	10000 g	79,28 €	80,28 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (1000€))	Yes	1000,00 €	10000 g	69,72 €	70,72 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (1000€))	Yes	1000,00 €	15000 g	85,92 €	86,92 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 1.500€))	Yes	1500,00 €	250 g	43,86 €	44,86 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 1.500€))	Yes	1500,00 €	500 g	52,70 €	53,70 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 1.500€))	Yes	1500,00 €	1000 g	59,26 €	60,26 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 1.500€))	Yes	1500,00 €	2000 g	62,04 €	63,04 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 1.500€))	Yes	1500,00 €	5000 g	70,38 €	71,38 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 1.500€))	Yes	1500,00 €	10000 g	84,28 €	85,28 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 2.000€))	Yes	2000,00 €	250 g	48,86 €	49,86 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 2.000€))	Yes	2000,00 €	500 g	57,70 €	58,70 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 2.000€))	Yes	2000,00 €	1000 g	64,26 €	65,26 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (2000€))	Yes	2000,00 €	1000 g	50,56 €	51,56 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 2.000€))	Yes	2000,00 €	2000 g	67,04 €	68,04 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (2000€))	Yes	2000,00 €	2000 g	53,80 €	54,80 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 2.000€))	Yes	2000,00 €	5000 g	75,38 €	76,38 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (2000€))	Yes	2000,00 €	5000 g	63,52 €	64,52 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 2.000€))	Yes	2000,00 €	10000 g	89,28 €	90,28 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (2000€))	Yes	2000,00 €	10000 g	79,72 €	80,72 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (2000€))	Yes	2000,00 €	15000 g	95,92 €	96,92 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 2.500€))	Yes	2500,00 €	250 g	53,86 €	54,86 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 2.500€))	Yes	2500,00 €	500 g	62,70 €	63,70 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 2.500€))	Yes	2500,00 €	1000 g	69,26 €	70,26 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 2.500€))	Yes	2500,00 €	2000 g	72,04 €	73,04 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 2.500€))	Yes	2500,00 €	5000 g	80,38 €	81,38 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 2.500€))	Yes	2500,00 €	10000 g	94,28 €	95,28 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 3.000€))	Yes	3000,00 €	250 g	58,86 €	59,86 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 3.000€))	Yes	3000,00 €	500 g	67,70 €	68,70 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 3.000€))	Yes	3000,00 €	1000 g	74,26 €	75,26 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (3000€))	Yes	3000,00 €	1000 g	60,56 €	61,56 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 3.000€))	Yes	3000,00 €	2000 g	77,04 €	78,04 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (3000€))	Yes	3000,00 €	2000 g	63,80 €	64,80 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 3.000€))	Yes	3000,00 €	5000 g	85,38 €	86,38 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (3000€))	Yes	3000,00 €	5000 g	73,52 €	74,52 €	ES	Spain	Portugal	PT
+Insured Parcel (EMS Postal Exprés  (Seguro 3.000€))	Yes	3000,00 €	10000 g	99,28 €	100,28 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (3000€))	Yes	3000,00 €	10000 g	89,72 €	90,72 €	ES	Spain	Portugal	PT
+Insured Parcel (Paquete prioritario (3000€))	Yes	3000,00 €	15000 g	105,92 €	106,92 €	ES	Spain	Portugal	PT
+EMS Postal Exprés Internacional (Seguro 3.000€)	Yes	3000,00 €	30000 g	99,00 €	100,00 €	ES	Spain	Portugal	PT
+UPS or Courrier Parcel (Full Insurance!)	Yes	20000,00 €	10000 g	199,00 €	200,00 €	ES	Spain	Portugal	PT
+UPS Standard Value 50.000€	Yes	50000,00 €	10000 g	45,77 €	47,00 €	ES	Spain	Portugal	PT
+Priority Letter	No	25,00 €	20 g	1,50 CHF	1,67 €	CH	Switzerland	Portugal	PT
+Priority Letter	No	25,00 €	50 g	2,60 CHF	2,67 €	CH	Switzerland	Portugal	PT
+Priority Letter	No	25,00 €	100 g	4,30 CHF	4,43 €	CH	Switzerland	Portugal	PT
+Priority Letter	No	25,00 €	100 g	3,70 CHF	3,88 €	CH	Switzerland	Portugal	PT
+Priority Letter	No	25,00 €	250 g	7,00 CHF	6,89 €	CH	Switzerland	Portugal	PT
+Priority Letter	No	25,00 €	500 g	12,00 CHF	11,45 €	CH	Switzerland	Portugal	PT
+Priority Letter	No	25,00 €	1000 g	17,00 CHF	16,02 €	CH	Switzerland	Portugal	PT
+Registered Priority Letter	Yes	250,00 €	50 g	8,60 CHF	8,35 €	CH	Switzerland	Portugal	PT
+Registered Priority Letter	Yes	250,00 €	100 g	10,30 CHF	9,90 €	CH	Switzerland	Portugal	PT
+Registered Priority Letter	Yes	250,00 €	100 g	9,70 CHF	9,36 €	CH	Switzerland	Portugal	PT
+Registered Priority Letter	Yes	250,00 €	250 g	13,00 CHF	12,37 €	CH	Switzerland	Portugal	PT
+Registered Priority Letter	Yes	250,00 €	500 g	18,00 CHF	16,93 €	CH	Switzerland	Portugal	PT
+Registered Priority Letter	Yes	250,00 €	1000 g	23,00 CHF	21,50 €	CH	Switzerland	Portugal	PT
+Registered Minipac International Priority	Yes	250,00 €	500 g	19,00 CHF	18,35 €	CH	Switzerland	Portugal	PT
+Registered Minipac International Priority	Yes	250,00 €	1000 g	24,00 CHF	22,91 €	CH	Switzerland	Portugal	PT
+Registered Minipac International Priority	Yes	250,00 €	2000 g	36,00 CHF	33,86 €	CH	Switzerland	Portugal	PT
+PostPac International Priority	Yes	2000,00 €	2000 g	48,00 CHF	44,82 €	CH	Switzerland	Portugal	PT
+PostPac International Priority	Yes	2000,00 €	5000 g	61,00 CHF	56,69 €	CH	Switzerland	Portugal	PT
+PostPac International Priority	Yes	2000,00 €	10000 g	75,00 CHF	69,47 €	CH	Switzerland	Portugal	PT
+PostPac International Priority	Yes	2000,00 €	15000 g	93,00 CHF	85,90 €	CH	Switzerland	Portugal	PT
+PostPac International Priority	Yes	2000,00 €	20000 g	105,00 CHF	96,86 €	CH	Switzerland	Portugal	PT
+PostPac International Priority	Yes	2000,00 €	25000 g	123,00 CHF	113,29 €	CH	Switzerland	Portugal	PT
+PostPac International Priority	Yes	2000,00 €	30000 g	133,00 CHF	122,42 €	CH	Switzerland	Portugal	PT

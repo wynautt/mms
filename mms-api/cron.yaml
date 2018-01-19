@@ -1,0 +1,6 @@
+#cron jobs
+
+cron:
+- description: email daily reports
+  url: /__internal__/send_product_alert_reports
+  schedule: every day 00:01

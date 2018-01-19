@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+<head>
+    <title>MTG</title>
+    <style type="text/css">
+        table {
+            display: table;
+            border-collapse: separate;
+            border-spacing: 2px;
+            border-color: gray;
+        }
+        td.red {
+            color: red;
+        }
+        td.green {
+            color: green;
+        }
+    </style>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+    <script type="application/javascript">
+        $(document).ready(function() {
+            $("td.number_var").addClass('green');
+            $("td.number_var:contains('-')").removeClass('green').addClass('red');
+        });
+    </script>
+
+
+
+</head>
+<body>
+<div class="table-responsive">
+    <table class="table table-striped">
+        <tbody>
+        <tr>
+            <td>Name</td>
+            <td>Set</td>
+            <td>Trend</td>
+            <td>Dvar</td>
+            <td>Wvar</td>
+            <td>Cards</td>
+            <td>Dvar</td>
+            <td>Wvar</td>
+        </tr>
+        </tbody>
+        {% for report in data %}
+        <tr>
+            <td>{{ report.name }}</td>
+            <td>{{ report.set }}</td>
+            <td>{{ report.current_value.p_trend }}</td>
+            <td class="number_var">{{ report.daily_p_trend_var }}</td>
+            <td class="number_var">{{ report.weekly_p_trend_var }}</td>
+            <td>{{ report.current_value.c_total }}</td>
+            <td class="number_var">{{ report.daily_c_total_var }}</td>
+            <td class="number_var">{{ report.weekly_c_total_var }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+</body>
+</html>
