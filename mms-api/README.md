@@ -1,4 +1,6 @@
-# README #
+# MMS API #
+
+App engine webapp written in Python that uses mkm REST API to keep track of the value of a collection of magic cards.
 
 ## REST API Endpoints ##
 
